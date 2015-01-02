@@ -5,6 +5,10 @@
     :alt: Travis badge
     :target: https://travis-ci.org/tprrt/curriculum
 
+.. image:: https://circleci.com/gh/tprrt/curriculum.png?style=shield&circle-token=8794b4eb585ada86a0521f8c215903faa223de40
+    :alt: Circle badge
+    :target: https://circleci.com/gh/tprrt/curriculum
+
 .. .. image:: https://coveralls.io/repos/tprrt/???/badge.png?branch=master
 ..     :alt: Coveralls badge
 ..     :target: https://coveralls.io/r/tprrt/???

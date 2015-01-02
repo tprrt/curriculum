@@ -1,0 +1,15 @@
+#
+# -*- coding: utf-8; tab-width: 4; c-basic-offset: 4; indent-tabs-mode: nil -*-
+
+general:
+  branches:
+    ignore:
+      - /.*-dev/
+
+test:
+  pre:
+    - sudo pip install -r requirements-ci.txt
+  override:
+    - rst2html.py ./full.rst > $CIRCLE_ARTIFACTS/full.html
+    - rst2odt.py ./full.rst > $CIRCLE_ARTIFACTS/full.odt
+    - rst2pdf ./full.rst > $CIRCLE_ARTIFACTS/full.pdf
