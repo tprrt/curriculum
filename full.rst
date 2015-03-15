@@ -32,7 +32,7 @@ The next spring, I think follow the West Highland Way and the Cape Wrath Trail.
 Professional work
 -------------------------------------------------------------------------------
 
-System Integration Engineer
+Embedded System Engineer
 ===============================================================================
 | *Intel Corporation*
 | *April 2014 – Present, Toulouse Area, France*
@@ -60,11 +60,11 @@ behalf Celad
 **Environment**:
   - *Hardware:* Intel SoC
   - *Operating system:* Android KitKat, Android Lollipop
-  - *Tools:* repo / git / gerrit / buildbot / jira / make / wiki
+  - *Tools:* repo / git / gerrit / buildbot / jira / make / wiki / Lauterbach
   - *Tools software Environment:* Ubuntu LTS
   - *Langagues:* C / Python / Makefile
 
-Embedded Software Engineer
+Embedded System Engineer
 ===============================================================================
 | *SOGETI High Tech GmbH*
 | *February 2014 – March 2014 (2 months), Toulouse Area, France*
@@ -92,7 +92,7 @@ the system conception and validation with teamwork behavior.
   - *Tools software Environment:* GNU/Linux / Windows
   - *Langagues:* C/C++ / Python
 
-Embedded Software Engineer
+Embedded System Engineer
 ===============================================================================
 | *Airbus Group*
 | *August 2011 – February 2014 (2 years 7 months), Toulouse Area, France*
@@ -129,7 +129,7 @@ controls and then transmit the orders to the actuators.
   - *Tools software Environment:* GNU/Linux / Unix / Windows
   - *Langagues:* C / ASM / Python / ksh / XML
 
-Research Engineer
+Research Assistant
 ===============================================================================
 | *ONERA*
 | *March 2011 – July 2011 (5 months), Toulouse Area, France*
@@ -166,7 +166,7 @@ the system.
   - *Tools software Environment:* GNU/Linux
   - *Langagues:* C / Python / Latex / XML / XSD / UML
 
-Research Engineer
+Research Assistant
 ===============================================================================
 | *IRIT*
 | *February 2010 – July 2010 (6 months), Toulouse Area, France*
