@@ -1,2 +1,1 @@
-docutils >= 0.12
 rst2pdf >= 0.93

@@ -1,0 +1,37 @@
+{
+  "linkColor": "#3299bb",
+  "styles": {
+    "base": {
+      "textColor": "#424242",
+      "leading": 15
+    },
+    "title": {
+      "alignment": "TA_LEFT"
+    },
+    "subtitle": {
+      "fontSize": "60%"
+    },
+    "heading1": {
+      "textColor": "#ff9900"
+    },
+    "heading2": {
+      "fontSize": "130%"
+    },
+    "line": {
+      "textColor": "#bcbcbc",
+      "fontSize": 6
+    },
+    "table-heading": {
+      "backColor": "#eeeeee",
+      "alignment": "TA_LEFT",
+      "fontName": "stdBold"
+    },
+    "table": {
+      "commands": [
+        ["VALIGN", [0, 0], [-1, -1], "TOP"],
+        ["INNERGRID", [0, 0], [-1, -1], 0.25, "#f7f7f7"],
+        ["ROWBACKGROUNDS", [0, 0], [-1, -1], ["white"]],
+        ["BOX", [0, 0], [-1, -1], 0.25, "#eeeeee" ]]
+    }
+  }
+}

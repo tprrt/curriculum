@@ -10,6 +10,5 @@ install:
   - pip install -r requirements-ci.txt
 
 script:
-  - rst2html.py ./full.rst > ./full.html
-  - rst2odt.py ./full.rst > ./full.odt
-  - rst2pdf ./full.rst > ./full.pdf
+  - rst2pdf --config=./config.ini ./full-eng.rst -o ./full-eng.pdf
+  - rst2pdf --config=./config.ini ./quick-eng.rst -o ./quick-eng.pdf

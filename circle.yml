@@ -10,6 +10,6 @@ test:
   pre:
     - sudo pip install -r requirements-ci.txt
   override:
-    - rst2html.py ./full.rst > $CIRCLE_ARTIFACTS/full.html
-    - rst2odt.py ./full.rst > $CIRCLE_ARTIFACTS/full.odt
-    - rst2pdf ./full.rst > $CIRCLE_ARTIFACTS/full.pdf
+    - rst2pdf --config=./config.ini ./full-eng.rst -o $CIRCLE_ARTIFACTS/full-eng.pdf
+    - rst2pdf --config=./config.ini ./quick-eng.rst -o $CIRCLE_ARTIFACTS/quick-eng.pdf
+
