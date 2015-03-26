@@ -3,23 +3,27 @@
   "styles": {
     "base": {
       "textColor": "#424242",
-      "leading": 15
+      "leading": 10
     },
     "title": {
-      "alignment": "TA_LEFT"
+      "alignment": "TA_LEFT",
+      "fontSize": "140%"
     },
     "subtitle": {
-      "fontSize": "60%"
+      "fontSize": "90%"
     },
     "heading1": {
-      "textColor": "#ff9900"
+      "textColor": "#ff9900",
+      "alignment": "TA_LEFT",
+      "fontSize": "130%"
     },
     "heading2": {
-      "fontSize": "130%"
+      "fontSize": "110%"
     },
     "line": {
       "textColor": "#bcbcbc",
-      "fontSize": 6
+      "fontSize": 3,
+      "leading": 0
     },
     "table-heading": {
       "backColor": "#eeeeee",
