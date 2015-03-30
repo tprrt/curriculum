@@ -38,7 +38,7 @@ Experiences
 
 April 2014 - May 2015: Embedded Software Engineer
 ...................................................
-Permanent job in **Intel Android SI NPI** on behalf Celad, Toulouse.
+Permanent job in **Intel Android SI NPI** on behalf Celad & SHT, Toulouse.
 
 - Introduce and maintain new platforms under Android mainline.
 - Build, first boot and power-on support.
