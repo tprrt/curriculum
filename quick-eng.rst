@@ -1,9 +1,9 @@
 ..
 .. -*- coding: utf-8; tab-width: 4; c-basic-offset: 4; indent-tabs-mode: nil -*-
 
-==========================
-Embedded Software Engineer
-==========================
+==================================
+Embedded systems software engineer
+==================================
 
 -------------
 Thomas Perrot
@@ -35,22 +35,22 @@ Technical Skills
 Experiences
 -----------
 
-April 2014 - May 2015: Embedded Software Engineer
-...................................................
+April 2014 - May 2015: Embedded systems software engineer
+.........................................................
 Permanent job in **Intel Android SI NPI** on behalf Celad & SHT, Toulouse.
 
 - Introduce and maintain new platforms under Android mainline.
 - Build, first boot and power-on support.
 
-February 2014 - March 2014: Embedded Software Engineer
-......................................................
+February 2014 - March 2014: Embedded systems software engineer
+..............................................................
 Permanent job in **Sogeti High Tech**, R&D, Toulouse.
 
 - Design a embedded ROS node with ROSc for coOS.
 - Design a custom ROS bridge for Unicom framework.
 
-August 2011 - February 2014: Embedded Software Engineer
-.......................................................
+August 2011 - February 2014: Embedded system software engineer
+..............................................................
 Permanent job in **Airbus S.A.S** on behalf of Sogeti High Tech, Toulouse.
 
 - Development and operation maintenance of primary flight control Airbus A380 and A400M.
