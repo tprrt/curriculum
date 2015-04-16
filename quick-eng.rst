@@ -89,7 +89,7 @@ Personal achievements
 Education
 ---------
 
-- **2011**: Master Degree (5 years) of Architecture of critical and real-time embedded systems in University Paul Sabatier/ EINSEEIHT (specialization IT and electronics).
+- **2011**: Master Degree (5 years) of Architecture of critical and real-time embedded systems in University Paul Sabatier/ ENSEEIHT (specialization IT and electronics).
 
 - **2010**: Master Degree (4 years) of Embedded and real-time systems and Modeling of software components in University Paul Sabatier (Toulouse III).
 
