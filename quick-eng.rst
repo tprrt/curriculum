@@ -83,6 +83,7 @@ Personal achievements
 ---------------------
 
 - On my free time, I hack open hardware and software projects like Yocto, Beaglebone or Arduino...
+- Volunteer contributor to open source projects
 - Master Degree with honnor
 - Winner of the UML contest in CS and the Ankama contest in the « 2009 IT night ».
 
