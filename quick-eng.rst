@@ -35,15 +35,19 @@ Technical Skills
 Experiences
 -----------
 
-April 2014 - May 2015: Embedded systems software engineer
-.........................................................
+July 2015 - Present: OpenEmbedded/Yocto Developper
+.....................................................
+Permanent job in ** coming soon ;-) **
+
+April 2014 - July 2015: Android System Integrator
+.................................................
 Permanent job in **Intel Android SI NPI** on behalf Celad & SHT, Toulouse.
 
 - Introduce and maintain new platforms under Android mainline.
 - Build, first boot and power-on support.
 
-February 2014 - March 2014: Embedded systems software engineer
-..............................................................
+February 2014 - March 2014: ROS System Integrator
+.................................................
 Permanent job in **Sogeti High Tech**, R&D, Toulouse.
 
 - Design a embedded ROS node with ROSc for coOS.
@@ -55,20 +59,20 @@ Permanent job in **Airbus S.A.S** on behalf of Sogeti High Tech, Toulouse.
 
 - Development and operation maintenance of primary flight control Airbus A380 and A400M.
 
-February 2011 - August 2011: Research assistant
-...............................................
+February 2011 - August 2011: Research assistant / ROS System Developper
+.......................................................................
 Temporary job of 5 months in **Office National Études et de Recherches Aérospatiales**, Toulouse.
 
 - Design and implement with ROS a tool to simulate the communication between different software modules of heterogeneous critical systems.
 
-October 2010 - February 2011: Internship
-........................................
+October 2010 - February 2011: Internship / VHDL Processor Designer
+..................................................................
 Internship of 5 months in **Atelier Interuniversitaire de Micro-nano Électronique**, Toulouse.
 
 - Design a 32-bit scalar pipelined RISC processor in-order Harvard architecture.
 
-Febrary 2010 - August 2010: Research assistant
-..............................................
+Febrary 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis
+...................................................................................
 Temporary job of 6 months in **Institut de Recherche en Informatique de Toulouse**, Toulouse.
 
 - Temporal analysis of parallel processus on multi-core processors.
@@ -82,7 +86,7 @@ Internship of 6 months **Artillect FabLab**, Toulouse.
 Personal achievements
 ---------------------
 
-- On my free time, I hack open hardware and software projects like Yocto, Beaglebone or Arduino...
+- On my free time, I hack open-source hardware and software projects like OpenEmbedded/Yocto, Beaglebone or Arduino...
 - Volunteer contributor to open source projects
 - Master Degree with honnor
 - Winner of the UML contest in CS and the Ankama contest in the « 2009 IT night ».
