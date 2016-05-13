@@ -16,15 +16,15 @@ Toulouse, France | +33 (0)6 29 30 55 43 | `email <thomas.perrot@tupi.fr>`_ | `gi
 Technical Skills
 ----------------
 
-**Operating Systems**: Android, Open Embedded, Yocto, ROS, ChibiOS
+**Operating Systems**: Android, OpenEmbedded, Yocto, ROS, ChibiOS
 
-**Architectures**: Intel SoC, ARM, AVR, PowerPC
+**Architectures**: x86-64, ARM, AVR, PowerPC
 
-**Platforms**: Raspberry PI, Beaglebone, Arduino, Launchpad
+**Platforms**: i.MX6Q, Raspberry PI, Beaglebone, Arduino, Launchpad
 
 **Languages**: Python, C, Makefile, Shell
 
-**Version control**: git, repo,  combo-layer
+**Version control**: git, git-repo
 
 **Tools**: Jira, Gerrit, Qemu, OpenOCD, GDB, Valgrind, Lauterbach
 
@@ -35,9 +35,13 @@ Technical Skills
 Experiences
 -----------
 
-July 2015 - Present: OpenEmbedded/Yocto Developper
-.....................................................
-Permanent job in ** coming soon ;-) **
+July 2015 - Present: Embedded Linux System Engineer
+...................................................
+Permanent job in **SIGFOX**
+
+- Introduce and maintain new BSPs
+- Introduce and maintain core system components.
+- Maintain OpenEmbedded/Yocto tool chains
 
 April 2014 - July 2015: Android System Integrator
 .................................................
