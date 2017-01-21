@@ -4,7 +4,11 @@
 general:
   branches:
     ignore:
-      - /.*-dev/
+      - /.*-next/
+
+machine:
+  python:
+    version: 2.7
 
 test:
   pre:
