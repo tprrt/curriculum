@@ -1,9 +1,9 @@
 ..
 .. -*- coding: utf-8; tab-width: 4; c-basic-offset: 4; indent-tabs-mode: nil -*-
 
-==================================
-Embedded systems software engineer
-==================================
+=====================================
+Senior Embedded Linux system Engineer
+=====================================
 
 -------------
 Thomas Perrot
@@ -16,17 +16,19 @@ Toulouse, France | +33 (0)6 29 30 55 43 | `email <thomas.perrot@tupi.fr>`_ | `gi
 Technical Skills
 ----------------
 
-**Operating Systems**: Android, OpenEmbedded, Yocto, ROS, ChibiOS
+**Operating Systems**: Linux, OpenEmbedded, Yocto, RIOT-OS, Android, ROS
 
-**Architectures**: x86-64, ARM, AVR, PowerPC
+**Bootloader**: u-boot, Trusted Firmware
 
-**Platforms**: i.MX6Q, Raspberry PI, Beaglebone, Arduino, Launchpad
+**Architectures**: x86-64, ARMv7, AMRv8, AVR, PowerPC
 
-**Languages**: Python, C, Makefile, Shell
+**Platforms**: QorIQ, ARMADA-37xx, i.MX6Q, RPI, Beaglebone, Nucleo, Arduino, Launchpad
+
+**Languages**: Python, C, Makefile, Bash
 
 **Version control**: git, git-repo
 
-**Tools**: Jira, Gerrit, Qemu, OpenOCD, GDB, Valgrind, Lauterbach
+**Tools**: Jira, Gerrit, Qemu, OpenOCD, GDB, Valgrind, Lauterbach, KiCad
 
 **Software Design**: MDA, OCL, UML
 
@@ -35,20 +37,28 @@ Technical Skills
 Experiences
 -----------
 
-July 2015 - Present: Embedded Linux System Engineer
+July 2015 - Present: Senior Embedded Linux Engineer
 ...................................................
 Permanent job in **SIGFOX**
 
-- Introduce and maintain new BSPs
-- Introduce and maintain core system components.
-- Maintain OpenEmbedded/Yocto tool chains
+Developer within the embedded systems team which design, develop and maintain
+the SIGFOX base station operating system as well as other software components:
+firmwares, bootloaders, drivers, libraries and daemons, from the prototype to
+the industrialization.
+
+- Board bring-up
+- Board Support Packages: firmware, bootloader, kernel
+- Core system components: boot, partitioning, OTA upgrade
+- OpenEmbedded (Yocto) tool chains and continuous integration
+- Platform integrity measurement and performances
 
 April 2014 - July 2015: Android System Integrator
 .................................................
 Permanent job in **Intel Android SI NPI** on behalf Celad & SHT, Toulouse.
 
-- Introduce and maintain new platforms under Android mainline.
-- Build, first boot and power-on support.
+- Introduce and maintain new Pre-silicon platforms under Android mainline.
+- Publish releases, best know configurations and methods
+- Bring up, build, first boot and power-on support.
 
 February 2014 - March 2014: ROS System Integrator
 .................................................
@@ -62,6 +72,8 @@ August 2011 - February 2014: Embedded system software engineer
 Permanent job in **Airbus S.A.S** on behalf of Sogeti High Tech, Toulouse.
 
 - Development and operation maintenance of primary flight control Airbus A380 and A400M.
+- Embedded code WCET optimization analysis and coding
+- Certification analysis (wcet, mapping, stack...)
 
 February 2011 - August 2011: Research assistant / ROS System Developper
 .......................................................................
@@ -90,7 +102,7 @@ Internship of 6 months **Artillect FabLab**, Toulouse.
 Personal achievements
 ---------------------
 
-- On my free time, I hack open-source hardware and software projects like OpenEmbedded/Yocto, Beaglebone or Arduino...
+- I am a Linux technologist and free software enthusiast
 - Volunteer contributor to open source projects
 - Master Degree with honnor
 - Winner of the UML contest in CS and the Ankama contest in the « 2009 IT night ».
@@ -98,7 +110,7 @@ Personal achievements
 Education
 ---------
 
-- **2011**: Master Degree (5 years) of Architecture of critical and real-time embedded systems in University Paul Sabatier/ ENSEEIHT (specialization IT and electronics).
+- **2011**: Master Degree (5 years) of Architecture of critical and real-time embedded systems in University Paul Sabatier/ENSEEIHT (specialization IT and electronics).
 
 - **2010**: Master Degree (4 years) of Embedded and real-time systems and Modeling of software components in University Paul Sabatier (Toulouse III).
 
@@ -111,6 +123,8 @@ Education
 Additional information
 ----------------------
 
-- **Hobbies**: IT, robotics, trekking, atv, tennis, badminton
+- **Hobbies**: IT, IoT, robotics, trekking, atv
 
 - **TOEIC**: 650
+
+- **BULATS**: B2
