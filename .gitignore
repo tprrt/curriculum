@@ -6,3 +6,6 @@
 *.tex
 *.pdf
 *.odt
+
+# virtualenv noise
+.venv
