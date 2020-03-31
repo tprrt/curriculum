@@ -1,4 +1,38 @@
 {
+"pageSetup" : {
+  "size": "A4",
+  "width": null,
+  "height": null,
+  "margin-top": "1cm",
+  "margin-bottom": "1cm",
+  "margin-left": "1cm",
+  "margin-right": "1cm",
+  "spacing-header": "5mm",
+  "spacing-footer": "5mm",
+  "margin-gutter": "0cm"
+},
+    
+"pageTemplates" : {
+  "coverPage": {
+      "frames": [
+          ["0cm", "0cm", "100%", "100%"]
+      ],
+      "showHeader" : false,
+      "showFooter" : false
+  },
+  "oneColumn": {
+      "frames": [
+          ["0cm", "0cm", "100%", "100%"]
+      ]
+  },
+  "twoColumn": {
+      "frames": [
+          ["0cm", "0cm", "38%", "100%"],
+          ["40%", "0cm", "60%", "100%"]
+      ]
+  }
+},
+    
   "linkColor": "#3299bb",
   "styles": {
     "base": {
@@ -18,7 +52,8 @@
       "fontSize": "130%"
     },
     "heading2": {
-      "fontSize": "110%"
+	"fontSize": "110%",
+	"spaceBefore": 18
     },
     "line": {
       "textColor": "#bcbcbc",
