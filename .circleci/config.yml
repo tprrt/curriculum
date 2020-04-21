@@ -16,6 +16,6 @@ jobs:
       - run:
           name: Convert reStructuredText documents to PDF
           command: |
-            rst2pdf --config=./config.ini ./brief.rst -o ./brief.pdf
+            rst2pdf --config=./config.ini ./resume.rst -o ./resume.pdf
       - store_artifacts:
-          path: ./brief.pdf
+          path: ./resume.pdf
