@@ -14,22 +14,22 @@
     
 "pageTemplates" : {
   "coverPage": {
-      "frames": [
-          ["0cm", "0cm", "100%", "100%"]
-      ],
-      "showHeader" : false,
-      "showFooter" : false
+    "frames": [
+      ["0cm", "0cm", "100%", "100%"]
+    ],
+    "showHeader" : false,
+    "showFooter" : false
   },
   "oneColumn": {
-      "frames": [
-          ["0cm", "0cm", "100%", "100%"]
-      ]
+    "frames": [
+      ["0cm", "0cm", "100%", "100%"]
+    ]
   },
   "twoColumn": {
-      "frames": [
-          ["0cm", "0cm", "38%", "100%"],
-          ["40%", "0cm", "60%", "100%"]
-      ]
+    "frames": [
+      ["0cm", "0cm", "38%", "100%"],
+      ["40%", "0cm", "60%", "100%"]
+    ]
   }
 },
     
@@ -52,8 +52,8 @@
       "fontSize": "130%"
     },
     "heading2": {
-	"fontSize": "110%",
-	"spaceBefore": 18
+      "fontSize": "110%",
+      "spaceBefore": 18
     },
     "line": {
       "textColor": "#bcbcbc",
