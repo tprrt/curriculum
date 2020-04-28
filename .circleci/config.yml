@@ -17,7 +17,7 @@ jobs:
       - run:
           name: Install requirements
           command: |
-            sudo pip install -r requirements-ci.txt
+            sudo pip install -r requirements.txt
       - run:
           name: Generate the pdf
           command: |

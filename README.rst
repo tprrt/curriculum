@@ -20,7 +20,7 @@ Use commands below to install required Python modules and to convert the resume 
 ::
 
    # To install required Python modules
-   pip install -r requirements-ci.txt
+   pip install -r requirements.txt
 
    # To generate the pdf
    rst2pdf --config=./config.ini ./resume.rst -o ./resume.pdf
