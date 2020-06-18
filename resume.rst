@@ -10,7 +10,7 @@ Toulouse, France
 
 +33 (0)6 29 30 55 43
 
-`email <thomas.perrot@tupi.fr>`_ | `github <https://github.com/tprrt/>`_ | `linkedin <http://fr.linkedin.com/pub/thomas-perrot/37/436/876>`_
+`email <thomas.perrot@tupi.fr>`_ | `github <https://github.com/tprrt/>`_ | `linkedin <https://www.linkedin.com/in/tprrt/>`_
 
 ----
 
