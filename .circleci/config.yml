@@ -1,23 +1,69 @@
 version: 2.1
-
-workflows:
-  post-merge:
-    jobs:
-      - build
-
-jobs:
-  build:
+executors:
+  docker-py3-ghp:
     docker:
       - image: circleci/python:3.7
+    resource_class: small
+jobs:
+  build:
+    executor: docker-py3-ghp
     steps:
       - checkout
+      - restore_cache:
+          keys:
+            - deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
+            - deps1-{{ .Branch }}-
+            - deps1-
       - run:
           name: Install requirements
           command: |
-            sudo pip install -r requirements.txt
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt
+            deactivate
+      - save_cache:
+          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
+          paths:
+            - venv
+      # - setup_remote_docker:
+      #     docker_layer_caching: true
       - run:
           name: Generate the pdf
           command: |
+            . venv/bin/activate
             rst2pdf --config=config.ini resume.rst -o resume.pdf
+            deactivate
       - store_artifacts:
           path: resume.pdf
+      - persist_to_workspace:
+          root: .
+          paths:
+            - venv
+            - resume.pdf
+  publish:
+    executor: docker-py3-ghp
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "ef:f9:4c:72:6e:75:7c:c8:c6:b7:4a:fd:01:b9:f3:7c"
+      - checkout
+      - attach_workspace:
+          at: .
+      - run:
+          name: Publish the pdf
+          command: |
+            . venv/bin/activate
+            # TODO
+            deactivate
+workflows:
+  version: 2
+  build-publish:
+    jobs:
+      - build
+      # - publish:
+      #     filters:
+      #       branches:
+      #         only:
+      #           - master
+      #     requires:
+      #       - build
