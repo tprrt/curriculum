@@ -8,7 +8,7 @@ My reStructuredText Curriculum Vitae
 
 My brief resume in reStructuredText format as well as a template to produce a file in pdf format.
 
-For more details about me, you can visit my `Linkedin profile <https://linkedin.com/in/thomas-perrot-87643637>`_
+For more details about me, you can visit my `Linkedin profile <www.linkedin.com/in/tprrt>`_
 
 ----
 
