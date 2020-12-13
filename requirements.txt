@@ -1,1 +1,4 @@
 rst2pdf >= 0.93
+
+# Required to publish the page on Github
+ghp-import2 >= 1.0.1
