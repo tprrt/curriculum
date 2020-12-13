@@ -8,7 +8,7 @@ My reStructuredText Curriculum Vitae
 
 My brief resume in reStructuredText format as well as a template to produce a file in pdf format.
 
-For more details about me, you can visit my `Linkedin profile <www.linkedin.com/in/tprrt>`_
+For more details about me, you can visit my `Linkedin`_ profile.
 
 ----
 
@@ -20,11 +20,13 @@ Use commands below to install required Python modules and to convert the resume 
     python3 -m venv venv
     . venv/bin/activate
 
-   # To install required Python modules
-   pip install -r requirements.txt
+    # To install required Python modules
+    pip install -r requirements.txt
 
-   # To generate the pdf
-   rst2pdf --config=./config.ini ./resume.rst -o ./resume.pdf
+    # To generate in the PDF format
+    rst2pdf --config=./config.ini ./resume.rst -o resume.pdf
 
     # To quit the Python3 virtual environment
     deactivate
+
+.. _Linkedin: https://www.linkedin.com/in/tprrt
