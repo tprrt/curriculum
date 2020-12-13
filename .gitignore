@@ -8,4 +8,4 @@
 *.odt
 
 # virtualenv noise
-.venv
+venv

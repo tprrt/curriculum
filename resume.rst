@@ -10,26 +10,26 @@ Toulouse, France
 
 +33 (0)6 29 30 55 43
 
-`email <thomas.perrot@tupi.fr>`_ | `github <https://github.com/tprrt/>`_ | `linkedin <https://www.linkedin.com/in/tprrt/>`_
+`email`_ | `Blog`_ | `Github`_ | `Gitlab`_ | `Linkedin`_
 
 ----
 
 Technical Skills
 ----------------
 
-**Operating Systems**: Linux, OpenEmbedded, Yocto, RIOT-OS, Android, ROS
+**Operating Systems**: Linux, OpenEmbedded, Yocto, Buildroot, RIOT-OS, Android, ROS
 
-**Bootloader**: u-boot, Trusted Firmware
+**Bootloader**: U-boot, TF-A, at91, OP-TEE
 
 **Architectures**: x86-64, ARMv7, AMRv8, PowerPC
 
-**Platforms**: QorIQ, ARMADA-37xx, i.MX6Q, STM32
+**Platforms**: QorIQ, ARMADA-37xx, i.MX6Q, STM32, SAMA5
 
 **Languages**: Python, C, Makefile, Bash
 
 **Version control**: git, git-repo
 
-**Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach
+**Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach, Saleae
 
 **Software Design**: MDA, OCL, UML
 
@@ -80,16 +80,17 @@ Hobbies: IT, IoT, robotics, trekking, atv
 Experiences
 -----------
 
-July 2015 - Present: Senior Embedded Linux Engineer
-...................................................
+December 2020 - Present: Embedded Linux and kernel Engineer
+...........................................................
+Permanent job in **Bootlin**
+
+July 2015 - December 2020: Embedded Linux Engineer
+..................................................
 Permanent job in **SIGFOX**
 
-- Platform design
-- Board bring-up
+- Platform design and bring-up
 - Board Support Packages: firmware, bootloader, kernel
 - Core system components: boot, partitioning, OTA upgrade
-- OpenEmbedded (Yocto) tool chains and continuous integration
-- Platform integrity measurement and performances
 
 April 2014 - July 2015: Android System Integrator
 .................................................
@@ -111,8 +112,7 @@ August 2011 - February 2014: Embedded system software engineer
 Permanent job in **Airbus S.A.S** on behalf of Sogeti High Tech, Toulouse.
 
 - Development and operation maintenance of primary flight control Airbus A380 and A400M.
-- Embedded code WCET optimization analysis and coding
-- Certification analysis (wcet, mapping, stack...)
+- Embedded code WCET optimization and certification analysis
 
 February 2011 - August 2011: Research assistant / ROS System Developper
 .......................................................................
@@ -137,3 +137,10 @@ Febrary 2009 - June 2009: Intership
 Internship of 6 months **Artillect FabLab**, Toulouse.
 
 - Realization of a simulator for physical-based tetrahedral robot with real-time 3D rendering platform.
+
+
+.. _Blog: https://tprrt.tupi.fr/archives
+.. _email: thomas.perrot@tupi.fr
+.. _Github: https://github.com/tprrt
+.. _Gitlab: https://gitlab.com/tprrt
+.. _Linkedin: https://www.linkedin.com/in/tprrt

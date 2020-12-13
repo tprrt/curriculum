@@ -16,8 +16,15 @@ Use commands below to install required Python modules and to convert the resume 
 
 ::
 
+    # To create a Python3 virtual environment
+    python3 -m venv venv
+    . venv/bin/activate
+
    # To install required Python modules
    pip install -r requirements.txt
 
    # To generate the pdf
    rst2pdf --config=./config.ini ./resume.rst -o ./resume.pdf
+
+    # To quit the Python3 virtual environment
+    deactivate
