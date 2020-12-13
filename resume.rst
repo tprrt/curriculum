@@ -19,17 +19,17 @@ Technical Skills
 
 **Operating Systems**: Linux, OpenEmbedded, Yocto, RIOT-OS, Android, ROS
 
-**Bootloader**: u-boot, Trusted Firmware
+**Bootloader**: u-boot, Trusted Firmware, OPT-TEE
 
 **Architectures**: x86-64, ARMv7, AMRv8, PowerPC
 
-**Platforms**: QorIQ, ARMADA-37xx, i.MX6Q, STM32
+**Platforms**: QorIQ, ARMADA-37xx, i.MX6Q, STM32, SAMA5
 
 **Languages**: Python, C, Makefile, Bash
 
 **Version control**: git, git-repo
 
-**Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach
+**Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach, Saleae
 
 **Software Design**: MDA, OCL, UML
 
@@ -80,8 +80,12 @@ Hobbies: IT, IoT, robotics, trekking, atv
 Experiences
 -----------
 
-July 2015 - Present: Senior Embedded Linux Engineer
-...................................................
+December 2020 - Present: Embedded Linux and kernel Engineer
+...........................................................
+Permanent job in **Bootlin**
+
+July 2015 - December 2020: Embedded Linux Engineer
+..................................................
 Permanent job in **SIGFOX**
 
 - Platform design
