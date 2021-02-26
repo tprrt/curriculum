@@ -10,7 +10,9 @@ Toulouse, France
 
 +33 (0)6 29 30 55 43
 
-`email`_ | `Blog`_ | `Github`_ | `Gitlab`_ | `Linkedin`_
+thomas.perrot@tupi.fr
+
+`Blog`_ | `Github`_ | `Gitlab`_ | `GnuPG`_ | `Linkedin`_
 
 ----
 
@@ -23,17 +25,17 @@ Technical Skills
 
 **Architectures**: x86-64, ARMv7, AMRv8, PowerPC
 
-**Platforms**: QorIQ, ARMADA-37xx, i.MX6Q, STM32, SAMA5
+**Platforms**: QorIQ, ARMADA-37xx, i.MX6, i.MX7, i.MX8, STM32MP1, SAMA5
 
 **Languages**: Python, C, Makefile, Bash
 
 **Version control**: git, git-repo
 
-**Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach, Saleae
+**Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach, Saleae, Podman
 
 **Software Design**: MDA, OCL, UML
 
-**Standards**: DO178B DAL A, EABI, ISO C99
+**Standards**: DO178B DAL A, EABI, ISO C99, POSIX
 
 Personal achievements
 ---------------------
@@ -82,53 +84,61 @@ Experiences
 
 December 2020 - Present: Embedded Linux and kernel Engineer
 ...........................................................
-Permanent job in **Bootlin**
+Permanent job in **Bootlin**, Toulouse.
+
+- Linux kernel porting and device driver development.
+- Integration of open-source components and system building.
 
 July 2015 - December 2020: Embedded Linux Engineer
 ..................................................
 Permanent job in **SIGFOX**
 
-- Platform design and bring-up
-- Board Support Packages: firmware, bootloader, kernel
-- Core system components: boot, partitioning, OTA upgrade
+- Platform design and bring-up.
+- Board Support Packages: firmware, bootloader, kernel.
+- Core system components: boot, partitioning, OTA upgrade.
 
 April 2014 - July 2015: Android System Integrator
 .................................................
 Permanent job in **Intel Android SI NPI** on behalf of Celad & SHT, Toulouse.
 
 - Introduce and maintain new Pre-silicon platforms under Android mainline.
-- Publish releases, best know configurations and methods
+- Publish releases, best know configurations and methods.
 - Bring up, build, first boot and power-on support.
 
 February 2014 - March 2014: ROS System Integrator
 .................................................
 Permanent job in **Sogeti High Tech**, R&D, Toulouse.
 
-- Design a embedded ROS node with ROSc for coOS.
-- Design a custom ROS bridge for Unicom framework.
+- Design a embedded ROS node with ROSc for coOS and a custom ROS bridge for
+  Unicom framework.
 
 August 2011 - February 2014: Embedded system software engineer
 ..............................................................
 Permanent job in **Airbus S.A.S** on behalf of Sogeti High Tech, Toulouse.
 
-- Development and operation maintenance of primary flight control Airbus A380 and A400M.
-- Embedded code WCET optimization and certification analysis
+- Development and operation maintenance of primary flight control Airbus A380
+  and A400M.
+- Embedded code WCET optimization and certification analysis.
 
 February 2011 - August 2011: Research assistant / ROS System Developper
 .......................................................................
-Temporary job of 5 months in **Office National Études et de Recherches Aérospatiales**, Toulouse.
+Temporary job of 5 months in **Office National Études et de Recherches
+Aérospatiales**, Toulouse.
 
-- Design and implement with ROS a tool to simulate the communication between different software modules of heterogeneous critical systems.
+- Design and implement with ROS a tool to simulate the communication between
+  different software modules of heterogeneous critical systems.
 
 October 2010 - February 2011: Internship / VHDL Processor Designer
 ..................................................................
-Internship of 5 months in **Atelier Interuniversitaire de Micro-nano Électronique**, Toulouse.
+Internship of 5 months in **Atelier Interuniversitaire de Micro-nano
+Électronique**, Toulouse.
 
 - Design a 32-bit scalar pipelined RISC processor in-order Harvard architecture.
 
 Febrary 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis
 ...................................................................................
-Temporary job of 6 months in **Institut de Recherche en Informatique de Toulouse**, Toulouse.
+Temporary job of 6 months in **Institut de Recherche en Informatique de
+Toulouse**, Toulouse.
 
 - Temporal analysis of parallel processus on multi-core processors.
 
@@ -136,11 +146,13 @@ Febrary 2009 - June 2009: Intership
 ...................................
 Internship of 6 months **Artillect FabLab**, Toulouse.
 
-- Realization of a simulator for physical-based tetrahedral robot with real-time 3D rendering platform.
+- Realization of a simulator for physical-based tetrahedral robot with real-time
+  3D rendering platform.
 
 
 .. _Blog: https://tprrt.tupi.fr/archives
-.. _email: thomas.perrot@tupi.fr
+.. _email: mailto:thomas.perrot@tupi.fr
 .. _Github: https://github.com/tprrt
 .. _Gitlab: https://gitlab.com/tprrt
+.. _GnuPG: https://keys.openpgp.org/vks/v1/by-fingerprint/088FDE87B7F1F018B520666B53A3D309F9177FB2
 .. _Linkedin: https://www.linkedin.com/in/tprrt
