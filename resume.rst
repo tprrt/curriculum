@@ -88,7 +88,6 @@ Permanent job in **Bootlin**, Toulouse.
 
 - Linux kernel porting and device driver development.
 - Integration of open-source components and system building.
-- Upstream board support packages and device drivers.
 
 July 2015 - December 2020: Embedded Linux Engineer
 ..................................................
@@ -143,12 +142,13 @@ Toulouse**, Toulouse.
 
 - Temporal analysis of parallel processus on multi-core processors.
 
-Febrary 2009 - June 2009: Intership
-...................................
-Internship of 6 months **Artillect FabLab**, Toulouse.
+..
+   Febrary 2009 - June 2009: Intership
+   ...................................
+   Internship of 6 months **Artillect FabLab**, Toulouse.
 
-- Realization of a simulator for physical-based tetrahedral robot with real-time
-  3D rendering platform.
+   - Realization of a simulator for physical-based tetrahedral robot with real-time
+     3D rendering platform.
 
 
 .. _Blog: https://tprrt.tupi.fr/archives

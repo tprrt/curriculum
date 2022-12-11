@@ -11,7 +11,7 @@
   "spacing-footer": "5mm",
   "margin-gutter": "0cm"
 },
-    
+
 "pageTemplates" : {
   "coverPage": {
     "frames": [
@@ -32,7 +32,7 @@
     ]
   }
 },
-    
+
   "linkColor": "#3299bb",
   "styles": {
     "base": {
