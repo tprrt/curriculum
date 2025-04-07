@@ -2,7 +2,7 @@ version: 2.1
 executors:
   docker-py3-ghp:
     docker:
-      - image: cimg/python:3.9.6-browsers
+      - image: cimg/python:3.13.2-browsers
     resource_class: large
 jobs:
   build:
