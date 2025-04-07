@@ -1,77 +1,31 @@
+# Use the latest 2.1 version of CircleCI pipeline process engine.
+# See: https://circleci.com/docs/configuration-reference
 version: 2.1
-executors:
-  docker-py3-ghp:
-    docker:
-      - image: cimg/python:3.9.6-browsers
-    resource_class: large
+
+# Define a job to be invoked later in a workflow.
+# See: https://circleci.com/docs/jobs-steps/#jobs-overview & https://circleci.com/docs/configuration-reference/#jobs
 jobs:
-  build:
-    executor: docker-py3-ghp
+  say-hello:
+    # Specify the execution environment. You can specify an image from Docker Hub or use one of our convenience images from CircleCI's Developer Hub.
+    # See: https://circleci.com/docs/executor-intro/ & https://circleci.com/docs/configuration-reference/#executor-job
+    docker:
+      # Specify the version you desire here
+      # See: https://circleci.com/developer/images/image/cimg/base
+      - image: cimg/base:current
+
+    # Add steps to the job
+    # See: https://circleci.com/docs/jobs-steps/#steps-overview & https://circleci.com/docs/configuration-reference/#steps
     steps:
+      # Checkout the code as the first step.
       - checkout
-      - restore_cache:
-          keys:
-            - deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
-            - deps1-{{ .Branch }}-
-            - deps1-
       - run:
-          name: Install requirements
-          command: |
-            python3 -m venv venv
-            . venv/bin/activate
-            pip install -r requirements.txt
-            deactivate
-      - save_cache:
-          key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
-          paths:
-            - venv
-      - setup_remote_docker:
-          docker_layer_caching: true
-      - run:
-          name: Generate the pdf
-          command: |
-            . venv/bin/activate
-            mkdir output
-            rst2pdf --config=config.ini resume.rst -o output/resume.pdf
-            deactivate
-      - store_artifacts:
-          path: output
-      - persist_to_workspace:
-          root: .
-          paths:
-            - venv
-            - output
-  publish:
-    executor: docker-py3-ghp
-    steps:
-      - add_ssh_keys:
-          fingerprints:
-            - "c2:ef:78:e4:71:c9:2a:b4:ec:c2:70:19:46:90:68:aa"
-      - checkout
-      - attach_workspace:
-          at: .
-      - run:
-          name: Publish the pdf
-          command: |
-            . venv/bin/activate
-            ghp-import -n output -m "[skip ci] Update of $(date)"
-            git push origin gh-pages
-            deactivate
+          name: "Say hello"
+          command: "echo Hello, World!"
+
+# Orchestrate jobs using workflows
+# See: https://circleci.com/docs/workflows/ & https://circleci.com/docs/configuration-reference/#workflows
 workflows:
-  version: 2
-  build-publish:
+  say-hello-workflow: # This is the name of the workflow, feel free to change it to better match your workflow.
+    # Inside the workflow, you define the jobs you want to run.
     jobs:
-      - build:
-          filters:
-            branches:
-              ignore:
-                - gh-pages
-      - publish:
-          filters:
-            branches:
-              ignore:
-                - gh-pages
-              only:
-                - master
-          requires:
-            - build
+      - say-hello
