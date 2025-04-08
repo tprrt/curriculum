@@ -94,9 +94,15 @@ July 2015 - December 2020: Embedded Linux Engineer
 ..................................................
 Permanent job in **SIGFOX**
 
-- Platform design and bring-up.
-- Board Support Packages: firmware, bootloader, kernel.
-- Core system components: boot, partitioning, OTA upgrade.
+- Board bring-up and initial setup
+- Design, develop, integrate, and maintain:
+ - Board support packages, including bootloaders and kernels.
+ - Core system components such as boot processes, partitioning, OTA upgrades,
+   and rollback mechanisms
+ - Security system components, including TPM, encryption, integrity systems,
+   trusted boot, and measured boot
+ - OpenEmbedded (Yocto) toolchains and continuous integration processes
+- Enhance platform performance and security
 
 April 2014 - July 2015: Android System Integrator
 .................................................
@@ -110,8 +116,8 @@ February 2014 - March 2014: ROS System Integrator
 .................................................
 Permanent job in **Sogeti High Tech**, R&D, Toulouse.
 
-- Design a embedded ROS node with ROSc for coOS and a custom ROS bridge for
-  Unicom framework.
+- Design a embedded ROS node with ROSc for coOS.
+- Design a custom ROS bridge for Unicom framework.
 
 August 2011 - February 2014: Embedded system software engineer
 ..............................................................
@@ -120,6 +126,7 @@ Permanent job in **Airbus S.A.S** on behalf of Sogeti High Tech, Toulouse.
 - Development and operation maintenance of primary flight control Airbus A380
   and A400M.
 - Embedded code WCET optimization and certification analysis.
+- Certification analysis (wcet, mapping, stack...)
 
 February 2011 - August 2011: Research assistant / ROS System Developper
 .......................................................................
