@@ -36,22 +36,28 @@
   "linkColor": "#3299bb",
   "styles": {
     "base": {
+      "fontFamily": "Helvetica, sans-serif",
+      "fontName": "Helvetica",
       "textColor": "#424242",
       "leading": 10
     },
     "title": {
       "alignment": "TA_LEFT",
+      "fontName": "Helvetica-Bold",
       "fontSize": "140%"
     },
     "subtitle": {
+      "fontName": "Helvetica-Bold",
       "fontSize": "90%"
     },
     "heading1": {
       "textColor": "#ff9900",
       "alignment": "TA_LEFT",
+      "fontName": "Helvetica-Bold",
       "fontSize": "130%"
     },
     "heading2": {
+      "fontName": "Helvetica-Bold",
       "fontSize": "110%",
       "spaceBefore": 18
     },
