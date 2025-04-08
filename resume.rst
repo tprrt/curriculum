@@ -19,17 +19,17 @@ thomas.perrot@tupi.fr
 Technical Skills
 ----------------
 
-**Operating Systems**: Linux, OpenEmbedded, Yocto, Buildroot, RIOT-OS, Android, ROS
+**Operating Systems**: Linux, OpenEmbedded, Yocto, Buildroot, RIOT-OS, Zephyr
 
 **Bootloader**: U-boot, TF-A, at91, OP-TEE
 
-**Architectures**: x86-64, ARMv7, AMRv8, PowerPC
+**Architectures**: x86-64, ARMv7, AMRv8, PowerPC, RISC-V
 
-**Platforms**: QorIQ, ARMADA-37xx, i.MX6, i.MX7, i.MX8, STM32MP1, SAMA5
+**Platforms**: QorIQ, ARMADA, i.MX, STM32MP1, SAMA5, SAMA7, Tegra, U740, X280
 
-**Languages**: Python, C, Makefile, Bash
+**Languages**: ASM, Bash, C, Latex, Python
 
-**Version control**: git, git-repo
+**Version control**: Git, git-repo, Kas
 
 **Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach, Saleae, Podman
 
@@ -73,7 +73,7 @@ Additional information
 
 Linux technologist and free software enthusiast
 
-Hobbies: IT, IoT, robotics, trekking, atv
+Hobbies: arcade, CrossFit, IT, IoT, retro computing, robotics, trekking
 
 .. raw:: pdf
 
@@ -86,9 +86,9 @@ December 2020 - Present: Embedded Linux and kernel Engineer
 ...........................................................
 Permanent job in **Bootlin**, Toulouse.
 
-- Linux kernel porting and device driver development.
-- Integration of open-source components and system building.
-- Upstream board support packages and device drivers.
+- Porting the Linux kernel and developing device drivers
+- Integrating open-source components and building systems
+- Contributing to upstream board support packages and device drivers
 
 July 2015 - December 2020: Embedded Linux Engineer
 ..................................................
@@ -152,7 +152,7 @@ Toulouse**, Toulouse.
      3D rendering platform.
 
 
-.. _Blog: https://tprrt.tupi.fr/archives
+.. _Blog: https://tprrt.tupi.fr/contributions
 .. _email: mailto:thomas.perrot@tupi.fr
 .. _Github: https://github.com/tprrt
 .. _Gitlab: https://gitlab.com/tprrt
