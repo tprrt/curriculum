@@ -3,7 +3,7 @@ executors:
   docker-py3-ghp:
     docker:
       - image: cimg/python:3.13.2-browsers
-    resource_class: large
+    resource_class: medium
 jobs:
   build:
     executor: docker-py3-ghp
