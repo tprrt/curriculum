@@ -23,7 +23,7 @@ Technical Skills
 
 **Bootloader**: U-boot, TF-A, at91, OP-TEE
 
-**Architectures**: x86-64, ARMv7, AMRv8, PowerPC, RISC-V
+**Architectures**: x86-64, ARMv7, ARMv8, PowerPC, RISC-V
 
 **Platforms**: QorIQ, ARMADA, i.MX, STM32MP1, SAMA5, SAMA7, Tegra, U740, X280
 
@@ -44,7 +44,7 @@ Volunteer open source contributor
 
 Part time job to finance my studies
 
-Master Degree with honnor
+Master Degree with honor
 
 Winner of the « 2009 IT night ».
 
@@ -139,7 +139,7 @@ Internship of 5 months in **Atelier Interuniversitaire de Micro-nano
 
 - Design a 32-bit scalar pipelined RISC processor in-order Harvard architecture.
 
-Febrary 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis
+February 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis
 ...................................................................................
 Temporary job of 6 months in **Institut de Recherche en Informatique de
 Toulouse**, Toulouse.
@@ -147,7 +147,7 @@ Toulouse**, Toulouse.
 - Temporal analysis of parallel processus on multi-core processors.
 
 ..
-   Febrary 2009 - June 2009: Intership
+   February 2009 - June 2009: Intership
    ...................................
    Internship of 6 months **Artillect FabLab**, Toulouse.
 
