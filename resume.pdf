@@ -79,7 +79,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Author () /CreationDate (D:20250516162645+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250516162645+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20250701073924+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20250701073924+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Senior Embedded Linux system Engineer) /Trapped /False
 >>
 endobj
@@ -156,7 +156,7 @@ endobj
 endobj
 28 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 124.4101 0 ] /Parent 20 0 R /Prev 27 0 R /Title (Febrary 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis)
+/Dest [ 11 0 R /XYZ 249.7795 124.4101 0 ] /Parent 20 0 R /Prev 27 0 R /Title (February 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis)
 >>
 endobj
 29 0 obj
@@ -235,7 +235,7 @@ Q
 q
 1 0 0 1 34.34646 503.5676 cm
 q
-BT 1 0 0 1 0 12 Tm 2.597354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Architectures) Tj /F1 8 Tf (: x86-64, ARMv7, AMRv8, PowerPC,) Tj T* 0 Tw (RISC-V) Tj T* ET
+BT 1 0 0 1 0 12 Tm 2.597354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Architectures) Tj /F1 8 Tf (: x86-64, ARMv7, ARMv8, PowerPC,) Tj T* 0 Tw (RISC-V) Tj T* ET
 Q
 Q
 q
@@ -298,7 +298,7 @@ q
 1 0 0 1 34.34646 315.0876 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Master Degree with honnor) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Master Degree with honor) Tj T* ET
 Q
 Q
 q
@@ -938,7 +938,7 @@ Q
 q
 1 0 0 1 249.7795 103.2901 cm
 q
-BT 1 0 0 1 0 12.32 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (Febrary 2010 - August 2010: Research assistant / Worst Case Execution) Tj T* (Time Analysis) Tj T* ET
+BT 1 0 0 1 0 12.32 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (February 2010 - August 2010: Research assistant / Worst Case Execution) Tj T* (Time Analysis) Tj T* ET
 Q
 Q
 q
@@ -1023,14 +1023,14 @@ xref
 0000003945 00000 n 
 0000004131 00000 n 
 0000004312 00000 n 
-0000004497 00000 n 
-0000004558 00000 n 
-0000020708 00000 n 
-0000020749 00000 n 
+0000004498 00000 n 
+0000004559 00000 n 
+0000020709 00000 n 
+0000020750 00000 n 
 trailer
 <<
 /ID 
-[<843bd1404ef24c54325e161a359e705b><843bd1404ef24c54325e161a359e705b>]
+[<fc8a52f059d2f4772081e5af9f17a007><fc8a52f059d2f4772081e5af9f17a007>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 13 0 R
@@ -1038,5 +1038,5 @@ trailer
 /Size 33
 >>
 startxref
-20783
+20784
 %%EOF
