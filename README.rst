@@ -39,5 +39,13 @@ Use the following command to validate the `circleci`_ pipeline:
     podman run --rm --security-opt seccomp=unconfined --security-opt label=disable -v $(pwd):/data circleci/circleci-cli:alpine config validate /data/.circleci/config.yml --token $TOKEN
 
 
+----
+
+License
+-------
+
+This work is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License`_.
+
+.. _Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 .. _circleci: https://circleci.com
 .. _Linkedin: https://www.linkedin.com/in/tprrt
