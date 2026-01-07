@@ -10,6 +10,10 @@ My brief resume in reStructuredText format as well as a template to produce a fi
 
 For more details about me, you can visit my `Linkedin`_ profile.
 
+You can also view the `prebuilt PDF version`_ of my resume.
+
+.. _prebuilt PDF version: https://github.com/tprrt/curriculum/blob/gh-pages/resume.pdf
+
 ----
 
 Use commands below to install required Python modules and to convert the resume to pdf format using the template:
@@ -38,6 +42,15 @@ Use the following command to validate the `circleci`_ pipeline:
 
     podman run --rm --security-opt seccomp=unconfined --security-opt label=disable -v $(pwd):/data circleci/circleci-cli:alpine config validate /data/.circleci/config.yml --token $TOKEN
 
+
+----
+
+Support
+-------
+
+If you find this project helpful, you can support my work via `PayPal`_.
+
+.. _PayPal: https://paypal.me/tprrt
 
 ----
 
