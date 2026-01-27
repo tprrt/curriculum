@@ -25,8 +25,6 @@ jobs:
           key: deps1-{{ .Branch }}-{{ checksum "requirements.txt" }}
           paths:
             - venv
-      - setup_remote_docker:
-          docker_layer_caching: true
       - run:
           name: Generate the pdf
           command: |
@@ -58,7 +56,6 @@ jobs:
             git push origin gh-pages
             deactivate
 workflows:
-  version: 2
   build-publish:
     jobs:
       - build:
@@ -69,8 +66,6 @@ workflows:
       - publish:
           filters:
             branches:
-              ignore:
-                - gh-pages
               only:
                 - master
           requires:
