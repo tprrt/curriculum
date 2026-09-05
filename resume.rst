@@ -1,6 +1,8 @@
-=====================================
-Senior Embedded Linux system Engineer
-=====================================
+.. SPDX-License-Identifier: CC-BY-SA-4.0
+
+=======================================
+Senior Embedded Linux & Kernel Engineer
+=======================================
 
 -------------
 Thomas Perrot
@@ -16,64 +18,53 @@ thomas.perrot@tupi.fr
 
 ----
 
-Technical Skills
-----------------
+Embedded Linux and low-level software engineer with 15 years of experience
+bringing up platforms and delivering production systems. Expertise across Linux
+kernel and BSP development, boot chains, Yocto/OpenEmbedded, secure systems,
+and over-the-air updates for ARM, PowerPC, and RISC-V platforms. Open-source
+contributor with upstream Linux board-support and driver experience.
 
-**Operating Systems**: Linux, OpenEmbedded, Yocto, Buildroot, RIOT-OS, Zephyr
+Technical Expertise
+-------------------
 
-**Bootloader**: U-boot, TF-A, at91, OP-TEE
+**Linux and build systems**: Linux kernel, Yocto, OpenEmbedded, Buildroot,
+RIOT-OS, Zephyr
 
-**Architectures**: x86-64, ARMv7, ARMv8, PowerPC, RISC-V
+**Boot and security**: U-Boot, TF-A, AT91, OP-TEE, TPM, trusted and measured
+boot, encryption, integrity systems
 
-**Platforms**: QorIQ, ARMADA, i.MX, STM32MP1, SAMA5, SAMA7, Tegra, U740, X280
+**Platforms**: ARMv7, ARMv8, PowerPC, RISC-V, x86-64; QorIQ, ARMADA, i.MX,
+STM32MP1, SAMA5, SAMA7, Tegra, U740, X280
 
-**Languages**: ASM, Bash, C, Latex, Python
+**Development**: C, assembly, Python, Bash, Git, repo, kas, Gerrit
 
-**Version control**: Git, git-repo, Kas
+**Debugging and tools**: QEMU, GDB, Valgrind, Lauterbach, Saleae, Podman
 
-**Tools**: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach, Saleae, Podman
-
-**Software Design**: MDA, OCL, UML
-
-**Standards**: DO178B DAL A, EABI, ISO C99, POSIX
-
-Personal achievements
----------------------
-
-Volunteer open source contributor
-
-Part time job to finance my studies
-
-Master Degree with honor
-
-Winner of the « 2009 IT night ».
-
-Education
----------
-
-**2011**: Master Degree (5 years)
-
-Architecture of critical and real-time embedded systems
-
-**2010**: Master Degree (4 years)
-
-Embedded and real-time systems and Modeling of software components
-
-**2009**: Bachelor’s degree of Fundamental IT
+**Standards**: DO-178B DAL A, EABI, ISO C99, POSIX
 
 Languages
 ---------
 
-**French**: mother tongue
+**French**: Native
 
-**English**: intermediate
+**English**: Intermediate
 
-Additional information
+Education
+---------
+
+**2011**: Master degree (five-year program), Architecture of critical and
+real-time embedded systems
+
+**2010**: Master degree (four-year program), Embedded and real-time systems;
+software-component modelling
+
+**2009**: Bachelor's degree, Fundamental IT
+
+Additional Information
 ----------------------
 
-Linux technologist and free software enthusiast
-
-Hobbies: arcade, CrossFit, IT, IoT, retro computing, robotics, trekking
+Linux technologist and free-software enthusiast. Personal interests include
+robotics, IoT, retro computing, arcade systems, and CrossFit.
 
 .. raw:: pdf
 
@@ -82,69 +73,69 @@ Hobbies: arcade, CrossFit, IT, IoT, retro computing, robotics, trekking
 Experiences
 -----------
 
-December 2020 - Present: Embedded Linux and kernel Engineer
-...........................................................
-Permanent job in **Bootlin**, Toulouse.
+December 2020 - Present: Embedded Linux & Kernel Engineer
+.............................................................
+**Bootlin**, Toulouse
 
-- Porting the Linux kernel and developing device drivers
-- Integrating open-source components and building systems
-- Contributing to upstream board support packages and device drivers
+- Port Linux to new platforms and develop device drivers.
+- Integrate open-source components and build complete embedded Linux systems.
+- Contribute board-support packages and device drivers to upstream projects.
 
 July 2015 - December 2020: Embedded Linux Engineer
 ..................................................
-Permanent job in **SIGFOX**
+**SIGFOX**
 
-- Board bring-up and initial setup
-- Board support packages, including bootloaders and kernels.
-- Core system components such as boot processes, partitioning, OTA upgrades,
-  and rollback mechanisms
-- Security system components, including TPM, encryption, integrity systems,
-  trusted boot, and measured boot
+- Performed board bring-up and developed BSPs, including bootloaders and
+  Linux kernels.
+- Delivered boot flows, partitioning, OTA update, and rollback mechanisms.
+- Developed security components including TPM integration, encryption,
+  integrity systems, trusted boot, and measured boot.
 
 April 2014 - July 2015: Android System Integrator
 .................................................
-Permanent job in **Intel Android SI NPI** on behalf of Celad & SHT, Toulouse.
+**Intel Android SI NPI**, via Celad & SHT, Toulouse
 
-- Introduce and maintain new Pre-silicon platforms under Android mainline.
-- Publish releases, best know configurations and methods.
-- Bring up, build, first boot and power-on support.
+- Introduced and maintained pre-silicon platforms in Android mainline.
+- Published releases and documented known-good configurations and methods.
+- Provided bring-up, build, first-boot, and power-on support.
 
 February 2014 - March 2014: ROS System Integrator
 .................................................
-Permanent job in **Sogeti High Tech**, R&D, Toulouse.
+**Sogeti High Tech**, R&D, Toulouse
 
-- Design a embedded ROS node with ROSc for coOS.
-- Design a custom ROS bridge for Unicom framework.
+- Designed an embedded ROS node with ROSc for coOS.
+- Designed a custom ROS bridge for the Unicom framework.
 
 August 2011 - February 2014: Embedded system software engineer
 ..............................................................
-Permanent job in **Airbus S.A.S** on behalf of Sogeti High Tech, Toulouse.
+**Airbus S.A.S**, via Sogeti High Tech, Toulouse
 
-- Development and operation maintenance of primary flight control Airbus A380
-  and A400M.
-- Embedded code WCET optimization and certification analysis.
+- Developed and maintained primary flight-control software for Airbus A380 and
+  A400M aircraft.
+- Optimized embedded-code WCET and performed certification analysis.
 
 February 2011 - August 2011: Research assistant / ROS System Developper
 .......................................................................
-Temporary job of 5 months in **Office National Études et de Recherches
-Aérospatiales**, Toulouse.
+Five-month contract at **Office National d'Études et de Recherches
+Aérospatiales**, Toulouse
 
-- Design and implement with ROS a tool to simulate the communication between
+- Designed and implemented a ROS tool to simulate communication between
   different software modules of heterogeneous critical systems.
 
 October 2010 - February 2011: Internship / VHDL Processor Designer
 ..................................................................
-Internship of 5 months in **Atelier Interuniversitaire de Micro-nano
-Électronique**, Toulouse.
+Five-month internship at **Atelier Interuniversitaire de Micro-nano
+Électronique**, Toulouse
 
-- Design a 32-bit scalar pipelined RISC processor in-order Harvard architecture.
+- Designed a 32-bit scalar, pipelined, in-order RISC processor with a Harvard
+  architecture.
 
-February 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis
-...................................................................................
-Temporary job of 6 months in **Institut de Recherche en Informatique de
-Toulouse**, Toulouse.
+February 2010 - August 2010: Research Assistant - WCET Analysis
+.................................................................
+Six-month contract at **Institut de Recherche en Informatique de Toulouse**,
+Toulouse
 
-- Temporal analysis of parallel processus on multi-core processors.
+- Performed timing analysis of parallel processes on multi-core processors.
 
 ..
    February 2009 - June 2009: Intership

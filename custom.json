@@ -69,7 +69,7 @@
     "table-heading": {
       "backColor": "#eeeeee",
       "alignment": "TA_LEFT",
-      "fontName": "stdBold"
+      "fontName": "Helvetica-Bold"
     },
     "table": {
       "commands": [
