@@ -19,42 +19,42 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:thomas.perrot@tupi.fr)
->> /Border [ 0 0 0 ] /Rect [ 34.34646 641.3941 111.8265 651.3941 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 34.34646 657.3941 111.8265 667.3941 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://tprrt.tupi.fr/contributions)
->> /Border [ 0 0 0 ] /Rect [ 34.34646 624.7941 50.35446 634.3941 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://tprrt.tupi.fr/)
+>> /Border [ 0 0 0 ] /Rect [ 34.34646 640.7941 50.35446 650.3941 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/tprrt)
->> /Border [ 0 0 0 ] /Rect [ 56.88246 624.7941 80.45046 634.3941 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 56.88246 640.7941 80.45046 650.3941 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://gitlab.com/tprrt)
->> /Border [ 0 0 0 ] /Rect [ 86.97846 624.7941 107.8745 634.3941 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 86.97846 640.7941 107.8745 650.3941 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://keys.openpgp.org/vks/v1/by-fingerprint/088FDE87B7F1F018B520666B53A3D309F9177FB2)
->> /Border [ 0 0 0 ] /Rect [ 114.4025 624.7941 141.0825 634.3941 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 114.4025 640.7941 141.0825 650.3941 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.linkedin.com/in/tprrt)
->> /Border [ 0 0 0 ] /Rect [ 147.6105 624.7941 177.4025 634.3941 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 147.6105 640.7941 177.4025 650.3941 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
@@ -64,7 +64,7 @@ endobj
 endobj
 11 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 29 0 R /Resources <<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 28 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -74,106 +74,101 @@ endobj
 endobj
 12 0 obj
 <<
-/Outlines 14 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 29 0 R /Type /Catalog
+/Outlines 14 0 R /PageLabels 30 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog
 >>
 endobj
 13 0 obj
 <<
-/Author () /CreationDate (D:20260127111148+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260127111148+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Senior Embedded Linux system Engineer) /Trapped /False
+/Author () /CreationDate (D:20260905140213+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260905140213+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Senior Embedded Linux & Kernel Engineer) /Trapped /False
 >>
 endobj
 14 0 obj
 <<
-/Count 15 /First 15 0 R /Last 20 0 R /Type /Outlines
+/Count 14 /First 15 0 R /Last 19 0 R /Type /Outlines
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 11 0 R /XYZ 34.34646 584.0476 0 ] /Next 16 0 R /Parent 14 0 R /Title (Technical Skills)
+/Dest [ 11 0 R /XYZ 34.34646 514.0476 0 ] /Next 16 0 R /Parent 14 0 R /Title (Technical Expertise)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 11 0 R /XYZ 34.34646 375.5676 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Personal achievements)
+/Dest [ 11 0 R /XYZ 34.34646 323.5676 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Languages)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 11 0 R /XYZ 34.34646 287.0876 0 ] /Next 18 0 R /Parent 14 0 R /Prev 16 0 R /Title (Education)
+/Dest [ 11 0 R /XYZ 34.34646 267.0876 0 ] /Next 18 0 R /Parent 14 0 R /Prev 16 0 R /Title (Education)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 11 0 R /XYZ 34.34646 162.6076 0 ] /Next 19 0 R /Parent 14 0 R /Prev 17 0 R /Title (Languages)
+/Dest [ 11 0 R /XYZ 34.34646 216.6076 0 ] /Next 19 0 R /Parent 14 0 R /Prev 17 0 R /Title (Additional Information)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 11 0 R /XYZ 34.34646 106.1276 0 ] /Next 20 0 R /Parent 14 0 R /Prev 18 0 R /Title (Additional information)
+/Count 8 /Dest [ 11 0 R /XYZ 249.7795 793.3701 0 ] /First 20 0 R /Last 27 0 R /Parent 14 0 R /Prev 18 0 R 
+  /Title (Experiences)
 >>
 endobj
 20 0 obj
 <<
-/Count 8 /Dest [ 11 0 R /XYZ 249.7795 793.3701 0 ] /First 21 0 R /Last 28 0 R /Parent 14 0 R /Prev 19 0 R 
-  /Title (Experiences)
+/Dest [ 11 0 R /XYZ 249.7795 762.8901 0 ] /Next 21 0 R /Parent 19 0 R /Title (December 2020 - Present: Embedded Linux & Kernel Engineer)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 762.8901 0 ] /Next 22 0 R /Parent 20 0 R /Title (December 2020 - Present: Embedded Linux and kernel Engineer)
+/Dest [ 11 0 R /XYZ 249.7795 660.3301 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (July 2015 - December 2020: Embedded Linux Engineer)
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 670.3301 0 ] /Next 23 0 R /Parent 20 0 R /Prev 21 0 R /Title (July 2015 - December 2020: Embedded Linux Engineer)
+/Dest [ 11 0 R /XYZ 249.7795 547.7701 0 ] /Next 23 0 R /Parent 19 0 R /Prev 21 0 R /Title (April 2014 - July 2015: Android System Integrator)
 >>
 endobj
 23 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 541.7701 0 ] /Next 24 0 R /Parent 20 0 R /Prev 22 0 R /Title (April 2014 - July 2015: Android System Integrator)
+/Dest [ 11 0 R /XYZ 249.7795 455.2101 0 ] /Next 24 0 R /Parent 19 0 R /Prev 22 0 R /Title (February 2014 - March 2014: ROS System Integrator)
 >>
 endobj
 24 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 449.2101 0 ] /Next 25 0 R /Parent 20 0 R /Prev 23 0 R /Title (February 2014 - March 2014: ROS System Integrator)
+/Dest [ 11 0 R /XYZ 249.7795 378.6501 0 ] /Next 25 0 R /Parent 19 0 R /Prev 23 0 R /Title (August 2011 - February 2014: Embedded system software engineer)
 >>
 endobj
 25 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 372.6501 0 ] /Next 26 0 R /Parent 20 0 R /Prev 24 0 R /Title (August 2011 - February 2014: Embedded system software engineer)
+/Dest [ 11 0 R /XYZ 249.7795 292.0901 0 ] /Next 26 0 R /Parent 19 0 R /Prev 24 0 R /Title (February 2011 - August 2011: Research Assistant / ROS System Developer)
 >>
 endobj
 26 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 286.0901 0 ] /Next 27 0 R /Parent 20 0 R /Prev 25 0 R /Title (February 2011 - August 2011: Research assistant / ROS System Developper)
+/Dest [ 11 0 R /XYZ 249.7795 211.5301 0 ] /Next 27 0 R /Parent 19 0 R /Prev 25 0 R /Title (October 2010 - February 2011: Internship / VHDL Processor Designer)
 >>
 endobj
 27 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 194.9701 0 ] /Next 28 0 R /Parent 20 0 R /Prev 26 0 R /Title (October 2010 - February 2011: Internship / VHDL Processor Designer)
+/Dest [ 11 0 R /XYZ 249.7795 130.9701 0 ] /Parent 19 0 R /Prev 26 0 R /Title (February 2010 - August 2010: Research Assistant - WCET Analysis)
 >>
 endobj
 28 0 obj
 <<
-/Dest [ 11 0 R /XYZ 249.7795 124.4101 0 ] /Parent 20 0 R /Prev 27 0 R /Title (February 2010 - August 2010: Research assistant / Worst Case Execution Time Analysis)
+/Count 1 /Kids [ 11 0 R ] /Type /Pages
 >>
 endobj
 29 0 obj
 <<
-/Count 1 /Kids [ 11 0 R ] /Type /Pages
->>
-endobj
-30 0 obj
-<<
-/Length 16097
+/Length 14622
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 34.34646 766.4901 cm
 q
-BT 1 0 0 1 0 15.68 Tm 13.44 TL /F2 11.2 Tf .133333 .133333 .133333 rg (Senior Embedded Linux system) Tj T* (Engineer) Tj T* ET
+BT 1 0 0 1 0 15.68 Tm 13.44 TL /F2 11.2 Tf .133333 .133333 .133333 rg (Senior Embedded Linux & Kernel) Tj T* (Engineer) Tj T* ET
 Q
 Q
 q
@@ -192,200 +187,115 @@ Q
 q
 1 0 0 1 34.34646 656.3941 cm
 q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (+33 \(0\)6 29 30 55 43) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 640.3941 cm
-q
 .196078 .6 .733333 rg
 BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (thomas.perrot@tupi.fr) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 624.3941 cm
+1 0 0 1 34.34646 640.3941 cm
 q
 BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf .196078 .6 .733333 rg (Blog) Tj .258824 .258824 .258824 rg ( | ) Tj .196078 .6 .733333 rg (Github) Tj .258824 .258824 .258824 rg ( | ) Tj .196078 .6 .733333 rg (Gitlab) Tj .258824 .258824 .258824 rg ( | ) Tj .196078 .6 .733333 rg (GnuPG) Tj .258824 .258824 .258824 rg ( | ) Tj .196078 .6 .733333 rg (Linkedin) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 596.0476 cm
+1 0 0 1 34.34646 612.0476 cm
 .258824 .258824 .258824 RG
 n 0 14.17323 m 192.6614 14.17323 l S
 Q
 q
-1 0 0 1 34.34646 571.5676 cm
+1 0 0 1 34.34646 526.0476 cm
 q
-BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Technical Skills) Tj T* ET
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 72 Tm /F1 8 Tf 10 TL .244903 Tw (Embedded Linux and low-level software engineer with) Tj T* 0 Tw 2.749345 Tw (15 years of experience bringing up platforms and) Tj T* 0 Tw .474683 Tw (delivering production systems. Expertise across Linux) Tj T* 0 Tw 8.293883 Tw (kernel and BSP development, boot chains,) Tj T* 0 Tw 11.30581 Tw (Yocto/OpenEmbedded, secure systems, and) Tj T* 0 Tw .692903 Tw (over-the-air updates for ARM, PowerPC, and RISC-V) Tj T* 0 Tw 1.450683 Tw (platforms. Open-source contributor to Linux, U-Boot,) Tj T* 0 Tw (OpenEmbedded/Yocto, and Buildroot.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 545.5676 cm
+1 0 0 1 34.34646 501.5676 cm
 q
-BT 1 0 0 1 0 12 Tm 1.587354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Operating Systems) Tj /F1 8 Tf (: Linux, OpenEmbedded, Yocto,) Tj T* 0 Tw (Buildroot, RIOT-OS, Zephyr) Tj T* ET
+BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Technical Expertise) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 529.5676 cm
+1 0 0 1 34.34646 475.5676 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Bootloader) Tj /F1 8 Tf (: U-boot, TF-A, at91, OP-TEE) Tj T* ET
+BT 1 0 0 1 0 12 Tm 4.09957 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Linux and build systems) Tj /F1 8 Tf (: Linux kernel, Yocto,) Tj T* 0 Tw (OpenEmbedded, Buildroot, RIOT-OS, Zephyr) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 503.5676 cm
+1 0 0 1 34.34646 439.5676 cm
 q
-BT 1 0 0 1 0 12 Tm 2.597354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Architectures) Tj /F1 8 Tf (: x86-64, ARMv7, ARMv8, PowerPC,) Tj T* 0 Tw (RISC-V) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 477.5676 cm
-q
-BT 1 0 0 1 0 12 Tm 5.377354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Platforms) Tj /F1 8 Tf (: QorIQ, ARMADA, i.MX, STM32MP1,) Tj T* 0 Tw (SAMA5, SAMA7, Tegra, U740, X280) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 461.5676 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Languages) Tj /F1 8 Tf (: ASM, Bash, C, Latex, Python) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 445.5676 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Version control) Tj /F1 8 Tf (: Git, git-repo, Kas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 419.5676 cm
-q
-BT 1 0 0 1 0 12 Tm .172903 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Tools) Tj /F1 8 Tf (: Jira, Gerrit, Qemu, GDB, Valgrind, Lauterbach,) Tj T* 0 Tw (Saleae, Podman) Tj T* ET
+BT 1 0 0 1 0 22 Tm 2.250236 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Boot and security) Tj /F1 8 Tf (: U-Boot, TF-A, AT91, OP-TEE,) Tj T* 0 Tw .318236 Tw (TPM, trusted and measured boot, encryption, integrity) Tj T* 0 Tw (systems) Tj T* ET
 Q
 Q
 q
 1 0 0 1 34.34646 403.5676 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Software Design) Tj /F1 8 Tf (: MDA, OCL, UML) Tj T* ET
+BT 1 0 0 1 0 22 Tm 5.601354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Platforms) Tj /F1 8 Tf (: ARMv7, ARMv8, PowerPC, RISC-V,) Tj T* 0 Tw .476283 Tw (x86-64; QorIQ, ARMADA, i.MX, STM32MP1, SAMA5,) Tj T* 0 Tw (SAMA7, Tegra, U740, X280) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 387.5676 cm
+1 0 0 1 34.34646 377.5676 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Standards) Tj /F1 8 Tf (: DO178B DAL A, EABI, ISO C99, POSIX) Tj T* ET
+BT 1 0 0 1 0 12 Tm .764903 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Development) Tj /F1 8 Tf (: C, assembly, Python, Bash, Git, repo,) Tj T* 0 Tw (kas, Gerrit) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 363.0876 cm
+1 0 0 1 34.34646 351.5676 cm
 q
-BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Personal achievements) Tj T* ET
+BT 1 0 0 1 0 12 Tm 5.370683 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Debugging and tools) Tj /F1 8 Tf (: QEMU, GDB, Valgrind,) Tj T* 0 Tw (Lauterbach, Saleae, Podman) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 347.0876 cm
+1 0 0 1 34.34646 335.5676 cm
 q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Volunteer open source contributor) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Standards) Tj /F1 8 Tf (: DO-178B DAL A, EABI, ISO C99, POSIX) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 331.0876 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Part time job to finance my studies) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 315.0876 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Master Degree with honor) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 299.0876 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Winner of the \253 2009 IT night \273.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 274.6076 cm
-q
-BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Education) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 258.6076 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (2011) Tj /F1 8 Tf (: Master Degree \(5 years\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 232.6076 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 5.453883 Tw (Architecture of critical and real-time embedded) Tj T* 0 Tw (systems) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 216.6076 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (2010) Tj /F1 8 Tf (: Master Degree \(4 years\)) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 190.6076 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 2.394236 Tw (Embedded and real-time systems and Modeling of) Tj T* 0 Tw (software components) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 174.6076 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (2009) Tj /F1 8 Tf (: Bachelor\222s degree of Fundamental IT) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 150.1276 cm
+1 0 0 1 34.34646 311.0876 cm
 q
 BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Languages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 134.1276 cm
+1 0 0 1 34.34646 295.0876 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (French) Tj /F1 8 Tf (: mother tongue) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (French) Tj /F1 8 Tf (: Native) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 118.1276 cm
+1 0 0 1 34.34646 279.0876 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (English) Tj /F1 8 Tf (: intermediate) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (English) Tj /F1 8 Tf (: Professional working proficiency) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 93.64762 cm
+1 0 0 1 34.34646 254.6076 cm
 q
-BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Additional information) Tj T* ET
+BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 77.64762 cm
+1 0 0 1 34.34646 228.6076 cm
+q
+BT 1 0 0 1 0 12 Tm 1.472903 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (2011) Tj /F1 8 Tf (: Master's degree \(with honors\), Architecture of) Tj T* 0 Tw (critical and real-time embedded systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 204.1276 cm
+q
+BT 1 0 0 1 0 2.08 Tm 12.48 TL /F2 10.4 Tf 1 .6 0 rg (Additional Information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.34646 168.1276 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Linux technologist and free software enthusiast) Tj T* ET
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL 5.811354 Tw (Linux technologist and free-software enthusiast.) Tj T* 0 Tw 6.786683 Tw (Personal interests include robotics, IoT, retro) Tj T* 0 Tw (computing, arcade systems, and CrossFit.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 34.34646 51.64762 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 1.728903 Tw (Hobbies: arcade, CrossFit, IT, IoT, retro computing,) Tj T* 0 Tw (robotics, trekking) Tj T* ET
-Q
-Q
-q
-1 0 0 1 34.34646 51.64762 cm
+1 0 0 1 34.34646 168.1276 cm
 Q
 q
 1 0 0 1 249.7795 780.8901 cm
@@ -396,13 +306,13 @@ Q
 q
 1 0 0 1 249.7795 752.3301 cm
 q
-BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (December 2020 - Present: Embedded Linux and kernel Engineer) Tj T* ET
+BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (December 2020 - Present: Embedded Linux & Kernel Engineer) Tj T* ET
 Q
 Q
 q
 1 0 0 1 249.7795 736.3301 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Permanent job in ) Tj /F2 8 Tf (Bootlin) Tj /F1 8 Tf (, Toulouse.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Bootlin) Tj /F1 8 Tf (, Toulouse) Tj T* ET
 Q
 Q
 q
@@ -427,7 +337,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Porting the Linux kernel and developing device drivers) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Port Linux to new platforms and develop device drivers.) Tj T* ET
 Q
 Q
 q
@@ -453,7 +363,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Integrating open-source components and building systems) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL -0.054299 Tw (Integrate open-source components and build complete embedded Linux systems.) Tj T* 0 Tw ET
 Q
 Q
 q
@@ -464,12 +374,12 @@ q
 1 0 0 1 249.7795 698.3301 cm
 Q
 q
-1 0 0 1 249.7795 688.3301 cm
+1 0 0 1 249.7795 678.3301 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 7 cm
 q
 .258824 .258824 .258824 rg
 BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
@@ -479,7 +389,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Contributing to upstream board support packages and device drivers) Tj T* ET
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL .447734 Tw (Contribute board support, device drivers, and build-system changes upstream to) Tj T* 0 Tw (Linux, U-Boot, OpenEmbedded/Yocto, and Buildroot.) Tj T* ET
 Q
 Q
 q
@@ -487,28 +397,55 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 688.3301 cm
+1 0 0 1 249.7795 678.3301 cm
 Q
 q
-1 0 0 1 249.7795 659.7701 cm
+1 0 0 1 249.7795 649.7701 cm
 q
 BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (July 2015 - December 2020: Embedded Linux Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 249.7795 643.7701 cm
+1 0 0 1 249.7795 633.7701 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Permanent job in ) Tj /F2 8 Tf (SIGFOX) Tj T* ET
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (SIGFOX) Tj T* ET
 Q
-Q
-q
-1 0 0 1 249.7795 637.7701 cm
-Q
-q
-1 0 0 1 249.7795 637.7701 cm
 Q
 q
 1 0 0 1 249.7795 627.7701 cm
+Q
+q
+1 0 0 1 249.7795 627.7701 cm
+Q
+q
+1 0 0 1 249.7795 607.7701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL .296623 Tw (Performed board bring-up and developed BSPs, including bootloaders and Linux) Tj T* 0 Tw (kernels.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.7795 601.7701 cm
+Q
+q
+1 0 0 1 249.7795 591.7701 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -523,44 +460,18 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Board bring-up and initial setup) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Delivered boot flows, partitioning, OTA update, and rollback mechanisms.) Tj T* ET
 Q
 Q
 q
 Q
 Q
-Q
-q
-1 0 0 1 249.7795 621.7701 cm
-Q
-q
-1 0 0 1 249.7795 611.7701 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Board support packages, including bootloaders and kernels.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 249.7795 605.7701 cm
 Q
 q
 1 0 0 1 249.7795 585.7701 cm
+Q
+q
+1 0 0 1 249.7795 565.7701 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -575,7 +486,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL .990845 Tw (Core system components such as boot processes, partitioning, OTA upgrades,) Tj T* 0 Tw (and rollback mechanisms) Tj T* ET
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 1.148229 Tw (Developed security components including TPM integration, encryption, integrity) Tj T* 0 Tw (systems, trusted boot, and measured boot.) Tj T* ET
 Q
 Q
 q
@@ -583,54 +494,54 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 579.7701 cm
+1 0 0 1 249.7795 565.7701 cm
 Q
 q
-1 0 0 1 249.7795 559.7701 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 7 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 3.310515 Tw (Security system components, including TPM, encryption, integrity systems,) Tj T* 0 Tw (trusted boot, and measured boot) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 249.7795 559.7701 cm
-Q
-q
-1 0 0 1 249.7795 531.2101 cm
+1 0 0 1 249.7795 537.2101 cm
 q
 BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (April 2014 - July 2015: Android System Integrator) Tj T* ET
 Q
 Q
 q
+1 0 0 1 249.7795 521.2101 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Intel Android SI NPI) Tj /F1 8 Tf (, via Celad & SHT, Toulouse) Tj T* ET
+Q
+Q
+q
 1 0 0 1 249.7795 515.2101 cm
+Q
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Permanent job in ) Tj /F2 8 Tf (Intel Android SI NPI) Tj /F1 8 Tf ( on behalf of Celad & SHT, Toulouse.) Tj T* ET
+1 0 0 1 249.7795 515.2101 cm
+Q
+q
+1 0 0 1 249.7795 505.2101 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
 Q
 Q
 q
-1 0 0 1 249.7795 509.2101 cm
+1 0 0 1 23 -3 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Introduced and maintained pre-silicon platforms in Android mainline.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 249.7795 509.2101 cm
+Q
+Q
 Q
 q
 1 0 0 1 249.7795 499.2101 cm
+Q
+q
+1 0 0 1 249.7795 489.2101 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -645,18 +556,18 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Introduce and maintain new Pre-silicon platforms under Android mainline.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Published releases and documented known-good configurations and methods.) Tj T* ET
 Q
 Q
 q
 Q
 Q
-Q
-q
-1 0 0 1 249.7795 493.2101 cm
 Q
 q
 1 0 0 1 249.7795 483.2101 cm
+Q
+q
+1 0 0 1 249.7795 473.2101 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -671,7 +582,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Publish releases, best know configurations and methods.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Provided bring-up, build, first-boot, and power-on support.) Tj T* ET
 Q
 Q
 q
@@ -679,54 +590,54 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 477.2101 cm
+1 0 0 1 249.7795 473.2101 cm
 Q
 q
-1 0 0 1 249.7795 467.2101 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Bring up, build, first boot and power-on support.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 249.7795 467.2101 cm
-Q
-q
-1 0 0 1 249.7795 438.6501 cm
+1 0 0 1 249.7795 444.6501 cm
 q
 BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (February 2014 - March 2014: ROS System Integrator) Tj T* ET
 Q
 Q
 q
+1 0 0 1 249.7795 428.6501 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Sogeti High Tech) Tj /F1 8 Tf (, R) Tj (&) Tj (D, Toulouse) Tj T* ET
+Q
+Q
+q
 1 0 0 1 249.7795 422.6501 cm
+Q
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Permanent job in ) Tj /F2 8 Tf (Sogeti High Tech) Tj /F1 8 Tf (, R) Tj (&) Tj (D, Toulouse.) Tj T* ET
+1 0 0 1 249.7795 422.6501 cm
+Q
+q
+1 0 0 1 249.7795 412.6501 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
 Q
 Q
 q
-1 0 0 1 249.7795 416.6501 cm
+1 0 0 1 23 -3 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Designed an embedded ROS node with ROSc for coOS.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 249.7795 416.6501 cm
+Q
+Q
 Q
 q
 1 0 0 1 249.7795 406.6501 cm
+Q
+q
+1 0 0 1 249.7795 396.6501 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -741,7 +652,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Design a embedded ROS node with ROSc for coOS.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Designed a custom ROS bridge for the Unicom framework.) Tj T* ET
 Q
 Q
 q
@@ -749,54 +660,28 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 400.6501 cm
+1 0 0 1 249.7795 396.6501 cm
 Q
 q
-1 0 0 1 249.7795 390.6501 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Design a custom ROS bridge for Unicom framework.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 249.7795 390.6501 cm
-Q
-q
-1 0 0 1 249.7795 362.0901 cm
+1 0 0 1 249.7795 368.0901 cm
 q
 BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (August 2011 - February 2014: Embedded system software engineer) Tj T* ET
 Q
 Q
 q
+1 0 0 1 249.7795 352.0901 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Airbus S.A.S) Tj /F1 8 Tf (, via Sogeti High Tech, Toulouse) Tj T* ET
+Q
+Q
+q
 1 0 0 1 249.7795 346.0901 cm
-q
-BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Permanent job in ) Tj /F2 8 Tf (Airbus S.A.S) Tj /F1 8 Tf ( on behalf of Sogeti High Tech, Toulouse.) Tj T* ET
-Q
 Q
 q
-1 0 0 1 249.7795 340.0901 cm
+1 0 0 1 249.7795 346.0901 cm
 Q
 q
-1 0 0 1 249.7795 340.0901 cm
-Q
-q
-1 0 0 1 249.7795 320.0901 cm
+1 0 0 1 249.7795 326.0901 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -811,7 +696,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 1.43529 Tw (Development and operation maintenance of primary flight control Airbus A380) Tj T* 0 Tw (and A400M.) Tj T* ET
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 1.436178 Tw (Developed and maintained primary flight-control software for Airbus A380 and) Tj T* 0 Tw (A400M aircraft.) Tj T* ET
 Q
 Q
 q
@@ -819,10 +704,10 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 314.0901 cm
+1 0 0 1 249.7795 320.0901 cm
 Q
 q
-1 0 0 1 249.7795 304.0901 cm
+1 0 0 1 249.7795 310.0901 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -837,7 +722,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Embedded code WCET optimization and certification analysis.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Optimized embedded-code WCET and performed certification analysis.) Tj T* ET
 Q
 Q
 q
@@ -845,28 +730,28 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 304.0901 cm
+1 0 0 1 249.7795 310.0901 cm
 Q
 q
-1 0 0 1 249.7795 264.9701 cm
+1 0 0 1 249.7795 281.5301 cm
 q
-BT 1 0 0 1 0 12.32 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (February 2011 - August 2011: Research assistant / ROS System) Tj T* (Developper) Tj T* ET
-Q
-Q
-q
-1 0 0 1 249.7795 238.9701 cm
-q
-BT 1 0 0 1 0 12 Tm 4.641964 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Temporary job of 5 months in ) Tj /F2 8 Tf (Office National \311tudes et de Recherches) Tj T* 0 Tw (A\351rospatiales) Tj /F1 8 Tf (, Toulouse.) Tj T* ET
+BT 1 0 0 1 0 1.76 Tm -0.087199 Tw 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (February 2011 - August 2011: Research Assistant / ROS System Developer) Tj T* 0 Tw ET
 Q
 Q
 q
-1 0 0 1 249.7795 232.9701 cm
+1 0 0 1 249.7795 255.5301 cm
+q
+BT 1 0 0 1 0 12 Tm 1.312623 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Five-month contract at ) Tj /F2 8 Tf (Office National d'\311tudes et de Recherches A\351rospatiales) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse) Tj T* ET
+Q
 Q
 q
-1 0 0 1 249.7795 232.9701 cm
+1 0 0 1 249.7795 249.5301 cm
 Q
 q
-1 0 0 1 249.7795 212.9701 cm
+1 0 0 1 249.7795 249.5301 cm
+Q
+q
+1 0 0 1 249.7795 229.5301 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -881,7 +766,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL .730691 Tw (Design and implement with ROS a tool to simulate the communication between) Tj T* 0 Tw (different software modules of heterogeneous critical systems.) Tj T* ET
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 2.226401 Tw (Designed and implemented a ROS tool to simulate communication between) Tj T* 0 Tw (different software modules of heterogeneous critical systems.) Tj T* ET
 Q
 Q
 q
@@ -889,28 +774,72 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 212.9701 cm
+1 0 0 1 249.7795 229.5301 cm
 Q
 q
-1 0 0 1 249.7795 184.4101 cm
+1 0 0 1 249.7795 200.9701 cm
 q
 BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (October 2010 - February 2011: Internship / VHDL Processor Designer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 249.7795 158.4101 cm
+1 0 0 1 249.7795 174.9701 cm
 q
-BT 1 0 0 1 0 12 Tm 2.165956 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Internship of 5 months in ) Tj /F2 8 Tf (Atelier Interuniversitaire de Micro-nano \311lectronique) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse.) Tj T* ET
+BT 1 0 0 1 0 12 Tm 3.040801 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Five-month internship at ) Tj /F2 8 Tf (Atelier Interuniversitaire de Micro-nano \311lectronique) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse) Tj T* ET
 Q
 Q
 q
-1 0 0 1 249.7795 152.4101 cm
+1 0 0 1 249.7795 168.9701 cm
 Q
 q
-1 0 0 1 249.7795 152.4101 cm
+1 0 0 1 249.7795 168.9701 cm
 Q
 q
-1 0 0 1 249.7795 142.4101 cm
+1 0 0 1 249.7795 148.9701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 7 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+.258824 .258824 .258824 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL 2.094961 Tw (Designed a 32-bit scalar, pipelined, in-order RISC processor with a Harvard) Tj T* 0 Tw (architecture.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 249.7795 148.9701 cm
+Q
+q
+1 0 0 1 249.7795 120.4101 cm
+q
+BT 1 0 0 1 0 1.76 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (February 2010 - August 2010: Research Assistant - WCET Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 104.4101 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Six-month contract at ) Tj /F2 8 Tf (Institut de Recherche en Informatique de Toulouse) Tj /F1 8 Tf (, Toulouse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 98.41008 cm
+Q
+q
+1 0 0 1 249.7795 98.41008 cm
+Q
+q
+1 0 0 1 249.7795 88.41008 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -925,7 +854,7 @@ q
 1 0 0 1 23 -3 cm
 q
 .258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Design a 32-bit scalar pipelined RISC processor in-order Harvard architecture.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Performed timing analysis of parallel processes on multi-core processors.) Tj T* ET
 Q
 Q
 q
@@ -933,110 +862,65 @@ Q
 Q
 Q
 q
-1 0 0 1 249.7795 142.4101 cm
-Q
-q
-1 0 0 1 249.7795 103.2901 cm
-q
-BT 1 0 0 1 0 12.32 Tm 10.56 TL /F2 8.8 Tf .133333 .133333 .133333 rg (February 2010 - August 2010: Research assistant / Worst Case Execution) Tj T* (Time Analysis) Tj T* ET
-Q
-Q
-q
-1 0 0 1 249.7795 77.29008 cm
-q
-BT 1 0 0 1 0 12 Tm .811134 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Temporary job of 6 months in ) Tj /F2 8 Tf (Institut de Recherche en Informatique de Toulouse) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 249.7795 71.29008 cm
-Q
-q
-1 0 0 1 249.7795 71.29008 cm
-Q
-q
-1 0 0 1 249.7795 61.29008 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F3 8 Tf 10 TL 9.2 0 Td (\177) Tj T* -9.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-.258824 .258824 .258824 rg
-BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Temporal analysis of parallel processus on multi-core processors.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-Q
-q
-1 0 0 1 249.7795 61.29008 cm
+1 0 0 1 249.7795 88.41008 cm
 Q
  
 endstream
 endobj
-31 0 obj
+30 0 obj
 <<
-/Nums [ 0 32 0 R ]
+/Nums [ 0 31 0 R ]
 >>
 endobj
-32 0 obj
+31 0 obj
 <<
 /S /D /St 1
 >>
 endobj
 xref
-0 33
+0 32
 0000000000 65535 f 
 0000000061 00000 n 
 0000000113 00000 n 
 0000000220 00000 n 
 0000000332 00000 n 
 0000000512 00000 n 
-0000000699 00000 n 
-0000000875 00000 n 
-0000001051 00000 n 
-0000001290 00000 n 
-0000001475 00000 n 
-0000001581 00000 n 
-0000001835 00000 n 
-0000001941 00000 n 
-0000002233 00000 n 
-0000002308 00000 n 
-0000002426 00000 n 
-0000002562 00000 n 
-0000002686 00000 n 
-0000002810 00000 n 
-0000002947 00000 n 
-0000003099 00000 n 
-0000003260 00000 n 
-0000003425 00000 n 
-0000003589 00000 n 
-0000003753 00000 n 
-0000003930 00000 n 
-0000004116 00000 n 
-0000004297 00000 n 
-0000004483 00000 n 
-0000004544 00000 n 
-0000020694 00000 n 
-0000020735 00000 n 
+0000000686 00000 n 
+0000000862 00000 n 
+0000001038 00000 n 
+0000001277 00000 n 
+0000001462 00000 n 
+0000001568 00000 n 
+0000001822 00000 n 
+0000001928 00000 n 
+0000002222 00000 n 
+0000002297 00000 n 
+0000002418 00000 n 
+0000002542 00000 n 
+0000002666 00000 n 
+0000002803 00000 n 
+0000002955 00000 n 
+0000003114 00000 n 
+0000003279 00000 n 
+0000003443 00000 n 
+0000003607 00000 n 
+0000003784 00000 n 
+0000003969 00000 n 
+0000004150 00000 n 
+0000004315 00000 n 
+0000004376 00000 n 
+0000019051 00000 n 
+0000019092 00000 n 
 trailer
 <<
 /ID 
-[<0dd61140a52536ae4ad104761bcb163b><0dd61140a52536ae4ad104761bcb163b>]
+[<b984884c917a98c5b9c55dec9f8e990f><b984884c917a98c5b9c55dec9f8e990f>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 13 0 R
 /Root 12 0 R
-/Size 33
+/Size 32
 >>
 startxref
-20769
+19126
 %%EOF
