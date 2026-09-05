@@ -10,8 +10,6 @@ Thomas Perrot
 
 Toulouse, France
 
-+33 (0)6 29 30 55 43
-
 thomas.perrot@tupi.fr
 
 `Blog`_ | `Github`_ | `Gitlab`_ | `GnuPG`_ | `Linkedin`_
@@ -22,7 +20,7 @@ Embedded Linux and low-level software engineer with 15 years of experience
 bringing up platforms and delivering production systems. Expertise across Linux
 kernel and BSP development, boot chains, Yocto/OpenEmbedded, secure systems,
 and over-the-air updates for ARM, PowerPC, and RISC-V platforms. Open-source
-contributor with upstream Linux board-support and driver experience.
+contributor to Linux, U-Boot, OpenEmbedded/Yocto, and Buildroot.
 
 Technical Expertise
 -------------------
@@ -47,21 +45,16 @@ Languages
 
 **French**: Native
 
-**English**: Intermediate
+**English**: Professional working proficiency
 
 Education
 ---------
 
-**2011**: Master degree (five-year program), Architecture of critical and
+**2011**: Master's degree (with honors), Architecture of critical and
 real-time embedded systems
 
-**2010**: Master degree (four-year program), Embedded and real-time systems;
-software-component modelling
-
-**2009**: Bachelor's degree, Fundamental IT
-
 Additional Information
-----------------------
+-----------------------
 
 Linux technologist and free-software enthusiast. Personal interests include
 robotics, IoT, retro computing, arcade systems, and CrossFit.
@@ -79,7 +72,8 @@ December 2020 - Present: Embedded Linux & Kernel Engineer
 
 - Port Linux to new platforms and develop device drivers.
 - Integrate open-source components and build complete embedded Linux systems.
-- Contribute board-support packages and device drivers to upstream projects.
+- Contribute board support, device drivers, and build-system changes upstream
+  to Linux, U-Boot, OpenEmbedded/Yocto, and Buildroot.
 
 July 2015 - December 2020: Embedded Linux Engineer
 ..................................................
@@ -114,7 +108,7 @@ August 2011 - February 2014: Embedded system software engineer
   A400M aircraft.
 - Optimized embedded-code WCET and performed certification analysis.
 
-February 2011 - August 2011: Research assistant / ROS System Developper
+February 2011 - August 2011: Research Assistant / ROS System Developer
 .......................................................................
 Five-month contract at **Office National d'Études et de Recherches
 Aérospatiales**, Toulouse
@@ -146,7 +140,7 @@ Toulouse
      3D rendering platform.
 
 
-.. _Blog: https://tprrt.tupi.fr/contributions
+.. _Blog: https://tprrt.tupi.fr/
 .. _email: mailto:thomas.perrot@tupi.fr
 .. _Github: https://github.com/tprrt
 .. _Gitlab: https://gitlab.com/tprrt
