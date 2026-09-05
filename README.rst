@@ -57,8 +57,10 @@ If you find this project helpful, you can support my work via `PayPal`_.
 License
 -------
 
-This work is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License`_.
+The resume content is licensed under the `Creative Commons
+Attribution-ShareAlike 4.0 International License`_. Repository code and
+configuration are licensed under the GNU General Public License v3.0 or later.
 
-.. _Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+.. _Creative Commons Attribution-ShareAlike 4.0 International License: https://creativecommons.org/licenses/by-sa/4.0/
 .. _circleci: https://circleci.com
 .. _Linkedin: https://www.linkedin.com/in/tprrt
