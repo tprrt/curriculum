@@ -25,7 +25,7 @@ contributor to Linux kernel, U-Boot, OpenEmbedded/Yocto, and Buildroot projects.
 Technical Expertise
 -------------------
 
-**Programming Languages**: C, Assembly, Python, Bash, VHDL
+**Programming Languages**: C, Assembly, Python, Bash, Rust, VHDL
 
 **Linux Kernel & Systems**: Linux Kernel, U-Boot, Device Drivers, BSP Development,
 Board Bring-Up, Kernel Debugging
