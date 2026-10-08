@@ -79,7 +79,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Author () /CreationDate (D:20261005205801+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261005205801+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author () /CreationDate (D:20261008084112+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261008084112+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (Senior Embedded Linux & Kernel Engineer) /Trapped /False
 >>
 endobj
@@ -161,7 +161,7 @@ endobj
 endobj
 29 0 obj
 <<
-/Length 15455
+/Length 15461
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -217,7 +217,7 @@ Q
 q
 1 0 0 1 34.34646 465.5676 cm
 q
-BT 1 0 0 1 0 12 Tm 3.819354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Programming Languages) Tj /F1 8 Tf (: C, Assembly, Python,) Tj T* 0 Tw (Bash, VHDL) Tj T* ET
+BT 1 0 0 1 0 12 Tm 3.819354 Tw 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Programming Languages) Tj /F1 8 Tf (: C, Assembly, Python,) Tj T* 0 Tw (Bash, Rust, VHDL) Tj T* ET
 Q
 Q
 q
@@ -913,12 +913,12 @@ xref
 0000004191 00000 n 
 0000004362 00000 n 
 0000004423 00000 n 
-0000019931 00000 n 
-0000019972 00000 n 
+0000019937 00000 n 
+0000019978 00000 n 
 trailer
 <<
 /ID 
-[<8b4aa814bcf09a6bd32aba02b0f0cf4b><8b4aa814bcf09a6bd32aba02b0f0cf4b>]
+[<7881f5b22d98e17058755b688054e362><7881f5b22d98e17058755b688054e362>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 13 0 R
@@ -926,5 +926,5 @@ trailer
 /Size 32
 >>
 startxref
-20006
+20012
 %%EOF
