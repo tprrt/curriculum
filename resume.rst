@@ -19,8 +19,9 @@ Email: thomas.perrot@tupi.fr
 Embedded Linux and low-level software engineer with 15 years of experience
 bringing up platforms and delivering production systems. Expertise across Linux
 kernel and BSP development, boot chains, Yocto/OpenEmbedded, secure systems,
-and over-the-air updates for ARM, PowerPC, and RISC-V platforms. Open-source
-contributor to Linux kernel, U-Boot, OpenEmbedded/Yocto, and Buildroot projects.
+and over-the-air updates for ARM, PowerPC, and RISC-V platforms.
+`Open-source contributor`_ to Linux kernel, U-Boot, OpenEmbedded/Yocto, and
+Buildroot projects.
 
 Technical Expertise
 -------------------
@@ -144,6 +145,7 @@ Toulouse, France (EU)
      3D rendering platform.
 
 .. _Blog: https://tprrt.tupi.fr/
+.. _Open-source contributor: https://tprrt.tupi.fr/contributions
 .. _email: mailto:thomas.perrot@tupi.fr
 .. _Github: https://github.com/tprrt
 .. _Gitlab: https://gitlab.com/tprrt
