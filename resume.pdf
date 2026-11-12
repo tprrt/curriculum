@@ -86,7 +86,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20261109105247+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261109105247+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author () /CreationDate (D:20261112104935+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261112104935+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (\(unspecified\)) /Title (Senior Embedded Linux & Kernel Engineer) /Trapped /False
 >>
 endobj
@@ -168,7 +168,7 @@ endobj
 endobj
 30 0 obj
 <<
-/Length 15522
+/Length 15624
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -323,7 +323,7 @@ Q
 q
 1 0 0 1 249.7795 736.3301 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Bootlin) Tj /F1 8 Tf (, Toulouse, France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Bootlin) Tj /F1 8 Tf (, Toulouse, France \(EU\) \267 Hybrid) Tj T* ET
 Q
 Q
 q
@@ -419,7 +419,7 @@ Q
 q
 1 0 0 1 249.7795 633.7701 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (SIGFOX) Tj /F1 8 Tf (, Toulouse, France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (SIGFOX) Tj /F1 8 Tf (, Toulouse, France \(EU\) \267 Hybrid) Tj T* ET
 Q
 Q
 q
@@ -515,7 +515,7 @@ Q
 q
 1 0 0 1 249.7795 511.2101 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Intel Android SI NPI) Tj /F1 8 Tf (, via Celad & SHT, Toulouse, France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Intel Android SI NPI) Tj /F1 8 Tf (, via Celad & SHT, Toulouse, France \(EU\) \267 On-site) Tj T* ET
 Q
 Q
 q
@@ -611,7 +611,7 @@ Q
 q
 1 0 0 1 249.7795 418.6501 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Sogeti High Tech) Tj /F1 8 Tf (, R) Tj (&) Tj (D, Toulouse, France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Sogeti High Tech) Tj /F1 8 Tf (, R) Tj (&) Tj (D, Toulouse, France \(EU\) \267 On-site) Tj T* ET
 Q
 Q
 q
@@ -681,7 +681,7 @@ Q
 q
 1 0 0 1 249.7795 342.0901 cm
 q
-BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Airbus S.A.S) Tj /F1 8 Tf (, via Sogeti High Tech, Toulouse, France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 10 TL /F2 8 Tf .258824 .258824 .258824 rg (Airbus S.A.S) Tj /F1 8 Tf (, via Sogeti High Tech, Toulouse, France \(EU\) \267 On-site) Tj T* ET
 Q
 Q
 q
@@ -751,7 +751,7 @@ Q
 q
 1 0 0 1 249.7795 234.9701 cm
 q
-BT 1 0 0 1 0 12 Tm 1.312623 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Five-month contract at ) Tj /F2 8 Tf (Office National d'\311tudes et de Recherches A\351rospatiales) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse, France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 12 Tm 1.312623 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Five-month contract at ) Tj /F2 8 Tf (Office National d'\311tudes et de Recherches A\351rospatiales) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse, France \(EU\) \267 On-site) Tj T* ET
 Q
 Q
 q
@@ -795,7 +795,7 @@ Q
 q
 1 0 0 1 249.7795 154.4101 cm
 q
-BT 1 0 0 1 0 12 Tm 3.040801 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Five-month internship at ) Tj /F2 8 Tf (Atelier Interuniversitaire de Micro-nano \311lectronique) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse, France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 12 Tm 3.040801 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Five-month internship at ) Tj /F2 8 Tf (Atelier Interuniversitaire de Micro-nano \311lectronique) Tj /F1 8 Tf (,) Tj T* 0 Tw (Toulouse, France \(EU\) \267 On-site) Tj T* ET
 Q
 Q
 q
@@ -839,7 +839,7 @@ Q
 q
 1 0 0 1 249.7795 73.85008 cm
 q
-BT 1 0 0 1 0 12 Tm .083761 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Six-month contract at ) Tj /F2 8 Tf (Institut de Recherche en Informatique de Toulouse) Tj /F1 8 Tf (, Toulouse,) Tj T* 0 Tw (France \(EU\)) Tj T* ET
+BT 1 0 0 1 0 12 Tm .083761 Tw 10 TL /F1 8 Tf .258824 .258824 .258824 rg (Six-month contract at ) Tj /F2 8 Tf (Institut de Recherche en Informatique de Toulouse) Tj /F1 8 Tf (, Toulouse,) Tj T* 0 Tw (France \(EU\) \267 On-site) Tj T* ET
 Q
 Q
 q
@@ -920,12 +920,12 @@ xref
 0000004386 00000 n 
 0000004557 00000 n 
 0000004618 00000 n 
-0000020193 00000 n 
-0000020234 00000 n 
+0000020295 00000 n 
+0000020336 00000 n 
 trailer
 <<
 /ID 
-[<7ea6c76dc2b2bda4707cf51bf2eaf357><7ea6c76dc2b2bda4707cf51bf2eaf357>]
+[<8d0b7a26862d39b10857480342b6fc34><8d0b7a26862d39b10857480342b6fc34>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 14 0 R
@@ -933,5 +933,5 @@ trailer
 /Size 33
 >>
 startxref
-20268
+20370
 %%EOF
