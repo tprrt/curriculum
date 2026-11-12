@@ -72,7 +72,7 @@ Experiences
 
 December 2020 – Present: Embedded Linux & Kernel Engineer
 .............................................................
-**Bootlin**, Toulouse, France (EU)
+**Bootlin**, Toulouse, France (EU) · Hybrid
 
 - Port Linux to new platforms and develop device drivers.
 - Integrate open-source components and build complete embedded Linux systems.
@@ -81,7 +81,7 @@ December 2020 – Present: Embedded Linux & Kernel Engineer
 
 July 2015 – December 2020: Embedded Linux Engineer
 ..................................................
-**SIGFOX**, Toulouse, France (EU)
+**SIGFOX**, Toulouse, France (EU) · Hybrid
 
 - Performed board bring-up and developed BSPs, including bootloaders and
   Linux kernels.
@@ -92,7 +92,7 @@ July 2015 – December 2020: Embedded Linux Engineer
 
 April 2014 – July 2015: Android System Integration Engineer
 ...........................................................
-**Intel Android SI NPI**, via Celad & SHT, Toulouse, France (EU)
+**Intel Android SI NPI**, via Celad & SHT, Toulouse, France (EU) · On-site
 
 - Introduced and maintained pre-silicon platforms in Android mainline.
 - Published releases, documentation and guidelines.
@@ -101,14 +101,14 @@ April 2014 – July 2015: Android System Integration Engineer
 
 February 2014 – March 2014: ROS System Integration Engineer
 ...........................................................
-**Sogeti High Tech**, R&D, Toulouse, France (EU)
+**Sogeti High Tech**, R&D, Toulouse, France (EU) · On-site
 
 - Designed and implemented an embedded ROS node with ROSc for coOS.
 - Designed and implemented a custom ROS bridge for Unicom framework.
 
 August 2011 – February 2014: Embedded System Software Engineer
 ..............................................................
-**Airbus S.A.S**, via Sogeti High Tech, Toulouse, France (EU)
+**Airbus S.A.S**, via Sogeti High Tech, Toulouse, France (EU) · On-site
 
 - Developed and maintained primary flight-control software under DO-178B certification.
 - Optimized embedded code WCET and performed static certification analysis.
@@ -116,7 +116,7 @@ August 2011 – February 2014: Embedded System Software Engineer
 February 2011 – August 2011: Research Assistant / ROS System Developer
 .......................................................................
 Five-month contract at **Office National d'Études et de Recherches
-Aérospatiales**, Toulouse, France (EU)
+Aérospatiales**, Toulouse, France (EU) · On-site
 
 - Designed a ROS tool to simulate communication between different software
   modules of heterogeneous critical systems.
@@ -124,7 +124,7 @@ Aérospatiales**, Toulouse, France (EU)
 October 2010 – February 2011: Internship / VHDL Processor Designer
 ..................................................................
 Five-month internship at **Atelier Interuniversitaire de Micro-nano
-Électronique**, Toulouse, France (EU)
+Électronique**, Toulouse, France (EU) · On-site
 
 - Designed a 32-bit scalar, pipelined, in-order RISC processor with a Harvard
   architecture.
@@ -132,14 +132,14 @@ Five-month internship at **Atelier Interuniversitaire de Micro-nano
 February 2010 – August 2010: Research Assistant – WCET Analysis
 .................................................................
 Six-month contract at **Institut de Recherche en Informatique de Toulouse**,
-Toulouse, France (EU)
+Toulouse, France (EU) · On-site
 
 - Performed timing analysis of parallel processes on multi-core processors.
 
 ..
    February 2009 – June 2009: Internship
    ...................................
-   Internship of 6 months **Artillect FabLab**, Toulouse.
+   Internship of 6 months **Artillect FabLab**, Toulouse · Hybrid.
 
    - Realization of a simulator for physical-based tetrahedral robot with real-time
      3D rendering platform.
